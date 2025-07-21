@@ -266,3 +266,6 @@
 [21Jul2025 21:03:39.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [21Jul2025 21:03:40.105] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [21Jul2025 21:03:47.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7596ms or 151 ticks behind
+[21Jul2025 23:51:26.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=55, z=409} BlockPos{x=-437, y=58, z=409}
+[21Jul2025 23:51:26.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=55, z=409} BlockPos{x=-437, y=58, z=409}
+[21Jul2025 23:51:27.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=55, z=409} BlockPos{x=-437, y=58, z=409}
