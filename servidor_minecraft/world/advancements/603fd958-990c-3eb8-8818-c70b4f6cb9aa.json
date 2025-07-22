@@ -14506,6 +14506,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-07-22 06:15:35 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 04:41:47 +0000"
@@ -14545,6 +14551,24 @@
   "mcwbiomesoplenty:recipes/jacaranda_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-07-22 06:15:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-07-22 06:15:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-07-22 06:15:37 +0000"
     },
     "done": true
   },
