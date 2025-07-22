@@ -339,3 +339,30 @@
 [22Jul2025 05:12:52.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-405, y=83, z=386} BlockPos{x=-406, y=84, z=385}
 [22Jul2025 05:16:41.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-405, y=90, z=364} BlockPos{x=-405, y=89, z=364}
 [22Jul2025 05:16:41.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-405, y=90, z=364} BlockPos{x=-405, y=89, z=364}
+[22Jul2025 05:28:28.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:38175] logged in with entity id 980974 at (-7915.746151231861, 90.70833560867958, 19821.263877157955)
+[22Jul2025 05:28:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[22Jul2025 05:28:28.429] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[22Jul2025 05:28:29.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! -5.674661842565399,5.367481512773068,-6.819657568005539
+[22Jul2025 05:28:43.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22Jul2025 05:29:02.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3331ms or 66 ticks behind
+[22Jul2025 05:29:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Naga
+[22Jul2025 05:29:08.152] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DuckHoward with unique ID travelersbackpack.standard_22.07.2025-05.29.08.dat
+[22Jul2025 05:29:08.183] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[22Jul2025 05:29:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDDDDDDDD
+[22Jul2025 05:29:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Pobre Eros om
+[22Jul2025 05:29:28.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Timed out
+[22Jul2025 05:29:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[22Jul2025 05:29:28.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jul2025 05:29:56.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:48907] logged in with entity id 1001854 at (-434.5, 72.0, 405.5)
+[22Jul2025 05:29:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[22Jul2025 05:29:56.914] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[22Jul2025 05:30:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> tremendo lag me dio om
+[22Jul2025 05:30:38.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> no me podia mover
+[22Jul2025 05:31:42.131] [Server thread/WARN] [tombstone/]: The death event of the player Ent144 was canceled by another mod
+[22Jul2025 05:31:42.161] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[22Jul2025 05:32:44.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[22Jul2025 05:33:04.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[22Jul2025 05:33:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> que haces aca om
+[22Jul2025 05:33:21.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Jul2025 05:33:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> me sale enfermedad fantasmal
+[22Jul2025 05:33:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> osea que tienes eso xddd
