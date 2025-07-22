@@ -1331,6 +1331,7 @@
       "shrubland": "2025-07-22 05:39:34 +0000",
       "rocky_shrubland": "2025-07-22 05:38:56 +0000",
       "scrubland": "2025-07-14 03:06:06 +0000",
+      "highland": "2025-07-22 06:02:46 +0000",
       "jacaranda_glade": "2025-07-14 02:05:39 +0000",
       "jade_cliffs": "2025-07-14 02:06:09 +0000",
       "mystic_grove": "2025-07-16 03:51:50 +0000",
@@ -6744,6 +6745,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-07-22 05:59:58 +0000",
       "shrubland": "2025-07-14 09:03:51 +0000",
       "pine_taiga": "2025-07-16 03:59:10 +0000",
       "muddy_river": "2025-07-16 03:27:30 +0000",
@@ -6775,6 +6777,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-07-22 05:59:58 +0000",
       "shrubland": "2025-07-14 09:03:51 +0000",
       "pine_taiga": "2025-07-16 03:59:10 +0000",
       "muddy_river": "2025-07-16 03:27:30 +0000",
