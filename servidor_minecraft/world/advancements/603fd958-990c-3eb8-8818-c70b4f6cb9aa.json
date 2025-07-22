@@ -88,6 +88,7 @@
       "minecraft:beach": "2025-07-16 00:54:29 +0000",
       "minecraft:stony_peaks": "2025-07-13 02:56:04 +0000",
       "minecraft:dark_forest": "2025-07-16 01:14:45 +0000",
+      "minecraft:mangrove_swamp": "2025-07-22 21:27:46 +0000",
       "minecraft:sparse_jungle": "2025-07-15 04:50:21 +0000",
       "minecraft:river": "2025-07-12 22:49:10 +0000",
       "minecraft:lukewarm_ocean": "2025-07-15 06:46:19 +0000",
@@ -902,6 +903,7 @@
       "muskeg": "2025-07-18 01:50:15 +0000",
       "woodland": "2025-07-13 01:39:01 +0000",
       "shrubland": "2025-07-18 01:26:44 +0000",
+      "rocky_shrubland": "2025-07-22 21:36:30 +0000",
       "scrubland": "2025-07-13 04:24:26 +0000",
       "fungal_jungle": "2025-07-16 00:52:17 +0000",
       "erupting_inferno": "2025-07-16 23:10:46 +0000",
@@ -7036,6 +7038,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "joshua_log": "2025-07-22 21:23:48 +0000",
+      "magnolia_log": "2025-07-22 21:27:54 +0000",
       "baobab_log": "2025-07-22 07:52:08 +0000",
       "eucalyptus_log": "2025-07-22 07:01:31 +0000",
       "mauve_log": "2025-07-17 06:17:54 +0000",
@@ -7043,7 +7047,8 @@
       "silver_birch_log": "2025-07-22 07:33:35 +0000",
       "kapok_log": "2025-07-22 07:43:25 +0000",
       "redwood_log": "2025-07-17 04:32:23 +0000",
-      "maple_log": "2025-07-14 09:20:22 +0000"
+      "maple_log": "2025-07-14 09:20:22 +0000",
+      "bamboo_log": "2025-07-22 21:02:34 +0000"
     },
     "done": false
   },
@@ -15804,78 +15809,179 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-22 08:52:20 +0000",
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
+      "has_maple_sapling": "2025-07-22 07:32:49 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
+      "has_silver_birch_sapling": "2025-07-22 07:33:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 08:52:20 +0000"
+      "has_log": "2025-07-22 07:33:35 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/kapok_branch_from_kapok_log": {
+    "criteria": {
+      "has_log": "2025-07-22 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/kapok_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/kapok_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:43:25 +0000"
+    },
+    "done": true
   },
   "everycomp:recipes/decorations/mcw/regions_unexplored/kapok_four_window": {
     "criteria": {
@@ -15919,12 +16025,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/brimwood_hedge": {
-    "criteria": {
-      "has_item": "2025-07-22 08:16:23 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_nether_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -15937,18 +16037,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_shrub": {
-    "criteria": {
-      "has_maple_sapling": "2025-07-22 07:32:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
-    "criteria": {
-      "has_refill_upgrade": "2025-07-22 08:09:31 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_western_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -15958,12 +16046,6 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_barn_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -15985,21 +16067,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:34:23 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/kapok_planks_steep_roof": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16009,39 +16079,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
-    "criteria": {
-      "has_log": "2025-07-22 07:33:35 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_lower_triple_drawer": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2025-07-22 08:50:16 +0000"
     },
     "done": true
   },
@@ -16057,33 +16097,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/kapok_shrub": {
-    "criteria": {
-      "has_kapok_sapling": "2025-07-22 07:44:14 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_large_drawer": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:33:35 +0000"
     },
     "done": true
   },
@@ -16117,33 +16133,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_hedge": {
-    "criteria": {
-      "has_item": "2025-07-22 08:17:43 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/kapok_platform": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_modern_desk": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16162,24 +16160,6 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/kapok_shutter": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/kapok_branch_from_kapok_log": {
-    "criteria": {
-      "has_log": "2025-07-22 07:43:25 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
@@ -16213,12 +16193,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/kapok_door": {
     "criteria": {
       "has_kapok_planks": "2025-07-22 07:43:29 +0000"
@@ -16237,33 +16211,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcp/regions_unexplored/kapok_planks_path": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_roofs": {
-    "criteria": {
-      "has_planks": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
@@ -16276,12 +16226,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_desk": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16315,18 +16259,6 @@
     },
     "done": true
   },
-  "regions_unexplored:from_the_tree_tops": {
-    "criteria": {
-      "kapok_vines": "2025-07-22 07:44:19 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_drawer_counter": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16351,12 +16283,6 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-07-22 08:07:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/kapok_plank_four_window": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16369,33 +16295,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/kapok_barred_trapdoor": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16405,27 +16307,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/kapok_horse_fence": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16444,12 +16328,6 @@
   "everycomp:recipes/decorations/mct/regions_unexplored/kapok_bamboo_trapdoor": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/mauve_shrub": {
-    "criteria": {
-      "has_mauve_sapling": "2025-07-22 08:52:22 +0000"
     },
     "done": true
   },
@@ -16477,12 +16355,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/kapok_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:43:25 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/kapok_compact_stairs": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16498,18 +16370,6 @@
   "suppsquared:recipes/decorations/regions_unexplored/item_shelf_kapok": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_roofs": {
-    "criteria": {
-      "has_planks": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 07:33:35 +0000"
     },
     "done": true
   },
@@ -16567,12 +16427,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mws/regions_unexplored/kapok_railing": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16603,12 +16457,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcw/regions_unexplored/kapok_plank_parapet": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16627,12 +16475,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_double_wardrobe": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16648,12 +16490,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_striped_chair": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 07:52:08 +0000"
     },
     "done": true
   },
@@ -16687,39 +16523,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/kapok_planks_lower_roof": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -16732,12 +16538,6 @@
   "everycomp:recipes/decorations/mws/regions_unexplored/kapok_bulk_stairs": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -16759,39 +16559,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/kapok_stockade_fence": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-07-22 08:07:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_bookshelf_drawer": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
-    "criteria": {
-      "has_silver_birch_sapling": "2025-07-22 07:33:21 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_paper": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -16831,12 +16607,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_swamp_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16867,12 +16637,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/kapok_log_bridge_middle": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16888,12 +16652,6 @@
   "everycomp:recipes/decorations/mct/regions_unexplored/kapok_ranch_trapdoor": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
@@ -16915,24 +16673,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_furnitures": {
-    "criteria": {
-      "has_wood": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
-    "criteria": {
-      "has_log": "2025-07-22 07:52:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_bookshelf": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -16942,12 +16682,6 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/kapok_pane_window": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
@@ -16966,12 +16700,6 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_waffle_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -17023,63 +16751,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mct/regions_unexplored/kapok_tropical_trapdoor": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
     },
     "done": true
   },
-  "mcwstairs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-22 08:07:14 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/kapok_stable_door": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
@@ -17092,12 +16772,6 @@
   "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_kapok_log_four_window": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -17125,12 +16799,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/palm_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:48:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/kapok_upper_steep_roof": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -17155,12 +16823,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/kapok_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 07:43:25 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_double_drawer_counter": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -17179,39 +16841,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-07-22 08:07:14 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_desk": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_bookshelf_drawer": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
-    "criteria": {
-      "has_log": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_furnitures": {
-    "criteria": {
-      "has_wood": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -17230,12 +16868,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_striped_chair": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -17263,33 +16895,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/kapok_fence_gate": {
     "criteria": {
       "has_kapok_planks": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:52:08 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
     },
     "done": true
   },
@@ -17305,12 +16913,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 08:49:54 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/kapok_table": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
@@ -17320,12 +16922,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_kapok_modern_desk": {
     "criteria": {
       "has_item": "2025-07-22 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
     },
     "done": true
   },
@@ -17341,15 +16937,591 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_tropical_trapdoor": {
+  "regions_unexplored:recipes/decorations/kapok_shrub": {
     "criteria": {
-      "has_logs": "2025-07-22 07:39:02 +0000"
+      "has_kapok_sapling": "2025-07-22 07:44:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2025-07-22 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:48:08 +0000"
     },
     "done": true
   },
   "mcwbiomesoplenty:recipes/palm_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 07:48:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
+    "criteria": {
+      "has_log": "2025-07-22 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 08:07:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-07-22 08:07:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 08:07:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-07-22 08:07:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
+    "criteria": {
+      "has_refill_upgrade": "2025-07-22 08:09:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/brimwood_hedge": {
+    "criteria": {
+      "has_item": "2025-07-22 08:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/redwood_hedge": {
+    "criteria": {
+      "has_item": "2025-07-22 08:17:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:34:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 08:49:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-07-22 08:50:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2025-07-22 08:52:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mud_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mud_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mud_brick": {
+    "criteria": {
+      "has_wood": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/mud": {
+    "criteria": {
+      "has_planks": "2025-07-22 21:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-22 21:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-22 21:21:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 21:23:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-07-22 21:23:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 21:23:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-07-22 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-07-22 21:28:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-07-22 21:33:42 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_mangrove": {
+    "criteria": {
+      "has_item": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_mangrove_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-07-22 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 23:24:52 +0000"
     },
     "done": true
   },
