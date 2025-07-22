@@ -269,3 +269,21 @@
 [22Jul2025 03:08:21.930] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [22Jul2025 03:08:28.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
 [22Jul2025 03:47:11.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[22Jul2025 03:48:48.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.225.119.94:57121] logged in with entity id 207496 at (-720.5, 64.0, 484.5)
+[22Jul2025 03:48:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[22Jul2025 03:48:48.819] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[22Jul2025 04:00:27.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[22Jul2025 04:00:27.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[22Jul2025 04:00:36.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[22Jul2025 04:00:36.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[22Jul2025 04:00:36.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jul2025 04:00:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jul2025 04:00:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jul2025 04:00:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jul2025 04:00:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jul2025 04:00:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jul2025 04:00:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jul2025 04:00:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jul2025 04:00:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jul2025 04:00:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jul2025 04:00:37.355] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
