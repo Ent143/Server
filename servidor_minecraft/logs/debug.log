@@ -4546,3 +4546,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jul2025 03:08:50.946] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [22Jul2025 03:13:00.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 03:13:00.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 03:17:19.979] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[22Jul2025 03:18:00.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 03:18:00.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 03:23:00.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 03:23:00.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
