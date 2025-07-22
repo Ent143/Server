@@ -14410,5 +14410,131 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/jacaranda_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-22 04:41:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
