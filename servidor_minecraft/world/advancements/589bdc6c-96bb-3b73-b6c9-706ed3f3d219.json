@@ -1337,6 +1337,7 @@
       "cold_desert": "2025-07-19 08:38:12 +0000",
       "old_growth_woodland": "2025-07-14 02:02:13 +0000",
       "field": "2025-07-16 03:53:23 +0000",
+      "orchard": "2025-07-22 05:39:38 +0000",
       "moor": "2025-07-22 05:37:00 +0000",
       "overgrown_greens": "2025-07-22 05:34:05 +0000",
       "mediterranean_forest": "2025-07-14 02:05:32 +0000",
@@ -10406,6 +10407,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-07-19 08:30:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-22 05:41:43 +0000"
     },
     "done": true
   },
