@@ -4746,3 +4746,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jul2025 23:51:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> no tanto si te metiste om
 [22Jul2025 23:52:42.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 23:52:42.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 23:53:31.958] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lapis_lazuli" - querying recipes to get these
+[22Jul2025 23:53:39.956] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[22Jul2025 23:57:42.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 23:57:42.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 23:57:53.458] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[22Jul2025 23:58:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> oe que fue no morí
+[22Jul2025 23:58:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> y me quedé en medio de la zona XD
+[22Jul2025 23:58:51.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> wtf
+[22Jul2025 23:59:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Alamos loco, ya casi mato al dragón nomás
+[22Jul2025 23:59:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> what
+[22Jul2025 23:59:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Ta fino tu fortaleza om
+[22Jul2025 23:59:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> firme?
+[22Jul2025 23:59:21.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDD, nah es broma
+[22Jul2025 23:59:28.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XDDDD
+[22Jul2025 23:59:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> veee
+[22Jul2025 23:59:42.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Aunque con es aespada mato a cualquier mob de verdad om
+[22Jul2025 23:59:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> menos a la bruja, esa se cura
+[22Jul2025 23:59:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> si p wn
+[22Jul2025 23:59:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDD
+[23Jul2025 00:00:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Ahora si alamos p
+[23Jul2025 00:00:06.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[23Jul2025 00:00:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[23Jul2025 00:00:07.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-410, y=-57, z=363} BlockPos{x=-410, y=-57, z=362}
+[23Jul2025 00:02:42.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 00:02:42.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
