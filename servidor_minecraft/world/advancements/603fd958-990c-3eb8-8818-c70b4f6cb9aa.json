@@ -17531,5 +17531,35 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_scribe": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 06:13:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 06:15:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 06:16:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 06:13:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
