@@ -20,3 +20,6 @@
 [23Jul2025 00:35:40.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-397, y=-52, z=550} BlockPos{x=-397, y=-53, z=550}
 [23Jul2025 00:43:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Strange Encounter]
 [23Jul2025 00:45:35.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-443, y=17, z=308} BlockPos{x=-411, y=3, z=389}
+[23Jul2025 01:34:13.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Timed out
+[23Jul2025 01:34:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[23Jul2025 01:34:13.142] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
