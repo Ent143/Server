@@ -4774,3 +4774,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 05:42:57.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 05:47:57.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 05:47:57.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:52:57.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:52:57.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:54:32.584] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[23Jul2025 05:55:23.078] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_gold" - querying recipes to get these
+[23Jul2025 05:55:28.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[23Jul2025 05:56:13.579] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_iron" - querying recipes to get these
+[23Jul2025 05:57:57.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:57:57.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 06:00:03.582] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[23Jul2025 06:02:57.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 06:02:57.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 06:03:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> entra p
+[23Jul2025 06:03:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> ya
+[23Jul2025 06:04:37.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! -0.2774588125543005,2.2383045886164012,-10.007851791911946
+[23Jul2025 06:05:48.432] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[23Jul2025 06:07:58.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 06:07:58.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
