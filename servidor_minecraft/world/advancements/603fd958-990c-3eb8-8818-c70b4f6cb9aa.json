@@ -17561,6 +17561,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-07-23 07:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-23 06:47:26 +0000"
@@ -17630,6 +17636,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-23 06:47:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-07-23 07:35:53 +0000"
     },
     "done": true
   },
