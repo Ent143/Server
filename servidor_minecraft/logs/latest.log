@@ -2,3 +2,5 @@
 [23Jul2025 00:00:06.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
 [23Jul2025 00:00:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
 [23Jul2025 00:00:07.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-410, y=-57, z=363} BlockPos{x=-410, y=-57, z=362}
+[23Jul2025 00:11:03.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-408, y=-58, z=649} BlockPos{x=-407, y=-59, z=649}
+[23Jul2025 00:11:03.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-407, y=-59, z=649} BlockPos{x=-406, y=-59, z=649}
