@@ -267,3 +267,6 @@
 [23Jul2025 04:06:47.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6774ms or 135 ticks behind
 [23Jul2025 04:14:00.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-401, y=57, z=402} BlockPos{x=-406, y=54, z=404}
 [23Jul2025 04:14:01.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-401, y=57, z=402} BlockPos{x=-406, y=54, z=404}
+[23Jul2025 04:24:01.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:48617] logged in with entity id 76883 at (-683.8500444305768, 64.0, 493.0295413366716)
+[23Jul2025 04:24:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[23Jul2025 04:24:01.440] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
