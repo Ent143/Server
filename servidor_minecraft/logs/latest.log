@@ -270,3 +270,5 @@
 [23Jul2025 04:24:01.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:48617] logged in with entity id 76883 at (-683.8500444305768, 64.0, 493.0295413366716)
 [23Jul2025 04:24:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
 [23Jul2025 04:24:01.440] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[23Jul2025 05:06:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward fell from a high place
+[23Jul2025 05:06:08.689] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved

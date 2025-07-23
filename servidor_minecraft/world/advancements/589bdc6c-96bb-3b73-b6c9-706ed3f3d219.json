@@ -11769,6 +11769,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-23 04:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-23 04:29:21 +0000"

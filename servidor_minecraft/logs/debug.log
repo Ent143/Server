@@ -4736,3 +4736,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 04:47:57.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 04:52:57.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 04:52:57.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 04:57:57.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 04:57:57.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:02:57.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:02:57.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:06:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward fell from a high place
+[23Jul2025 05:06:08.686] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-436, y:26, z:422, dim:minecraft:overworld]
+[23Jul2025 05:06:08.689] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[23Jul2025 05:07:57.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:07:57.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:12:57.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:12:57.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:17:57.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:17:57.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
