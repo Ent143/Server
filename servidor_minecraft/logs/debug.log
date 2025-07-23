@@ -4822,3 +4822,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 00:57:42.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 01:02:42.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 01:02:42.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 01:07:31.446] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[23Jul2025 01:07:42.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 01:07:42.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 01:12:42.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 01:12:42.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 01:16:01.950] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_iron" - querying recipes to get these
+[23Jul2025 01:17:42.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 01:17:42.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 01:22:42.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 01:22:42.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
