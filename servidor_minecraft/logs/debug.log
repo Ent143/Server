@@ -4749,3 +4749,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 05:12:57.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 05:17:57.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 05:17:57.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:20:15.568] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[23Jul2025 05:21:00.570] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_iron" - querying recipes to get these
+[23Jul2025 05:21:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> alm
+[23Jul2025 05:21:28.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> y este lugar
+[23Jul2025 05:21:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> oe wtf haces aca
+[23Jul2025 05:21:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> me tepeo
+[23Jul2025 05:22:04.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> como om
+[23Jul2025 05:22:06.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XD
+[23Jul2025 05:22:57.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:22:57.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 05:24:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> y la granja de exp?
+[23Jul2025 05:24:53.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> esta en otro lado xd
+[23Jul2025 05:24:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> pd: gracias por la piedra
+[23Jul2025 05:25:14.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ah ya vi por donde te metiste
+[23Jul2025 05:25:15.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XD
+[23Jul2025 05:27:57.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 05:27:57.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
