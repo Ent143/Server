@@ -334,3 +334,8 @@
 [23Jul2025 07:02:19.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-272, y=45, z=68} BlockPos{x=-273, y=45, z=68}
 [23Jul2025 07:02:19.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-272, y=45, z=68} BlockPos{x=-273, y=45, z=68}
 [23Jul2025 07:33:52.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[23Jul2025 07:51:05.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 07:51:46.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 07:53:06.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Jul2025 08:00:03.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
+[23Jul2025 08:00:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
