@@ -4285,3 +4285,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 08:53:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [The long arm of the law]
 [25Jul2025 08:55:48.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! -0.29352826963190637,-1.5,9.890754545331049
 [25Jul2025 08:55:48.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11346ms or 226 ticks behind
+[25Jul2025 09:01:09.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[25Jul2025 09:01:09.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! -5.446806149629879,0.0,-8.479085838104368
+[25Jul2025 09:02:50.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jul2025 09:03:07.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
+[25Jul2025 09:03:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[25Jul2025 09:03:07.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind

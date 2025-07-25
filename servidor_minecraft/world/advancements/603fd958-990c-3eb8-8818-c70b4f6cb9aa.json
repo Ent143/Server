@@ -18516,6 +18516,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-07-25 09:07:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-25 08:33:06 +0000"
@@ -18537,6 +18543,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-25 08:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-25 09:07:44 +0000"
     },
     "done": true
   },
@@ -18603,6 +18615,12 @@
   "tombstone:adventure/strange_mount": {
     "criteria": {
       "has_zombie_receptacle": "2025-07-25 08:15:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-25 08:53:19 +0000"
     },
     "done": true
   },
