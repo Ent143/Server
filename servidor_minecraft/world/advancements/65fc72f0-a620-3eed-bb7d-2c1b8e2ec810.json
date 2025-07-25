@@ -3729,8 +3729,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-07-25 06:24:18 +0000",
       "willow_forest": "2025-07-25 06:18:21 +0000",
+      "grassy_beach": "2025-07-25 06:21:05 +0000",
       "blackwood_taiga": "2025-07-25 06:14:32 +0000",
+      "rocky_meadow": "2025-07-25 06:21:12 +0000",
+      "highland_fields": "2025-07-25 06:21:55 +0000",
       "magnolia_highlands": "2025-07-13 01:58:05 +0000",
       "blackstone_basin": "2025-07-22 07:24:25 +0000",
       "chalk_cliffs": "2025-07-13 01:52:38 +0000",
@@ -3743,8 +3747,12 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-07-25 06:24:18 +0000",
       "willow_forest": "2025-07-25 06:18:21 +0000",
+      "grassy_beach": "2025-07-25 06:21:05 +0000",
       "blackwood_taiga": "2025-07-25 06:14:32 +0000",
+      "rocky_meadow": "2025-07-25 06:21:12 +0000",
+      "highland_fields": "2025-07-25 06:21:55 +0000",
       "magnolia_highlands": "2025-07-13 01:58:05 +0000",
       "chalk_cliffs": "2025-07-13 01:52:38 +0000",
       "bamboo_forest": "2025-07-13 01:58:18 +0000",
@@ -3762,6 +3770,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-07-13 02:02:13 +0000",
+      "shrubland": "2025-07-25 06:27:26 +0000",
       "scrubland": "2025-07-14 07:56:46 +0000",
       "fungal_jungle": "2025-07-25 06:11:05 +0000",
       "floodplain": "2025-07-25 06:05:55 +0000",
@@ -3770,12 +3779,15 @@
       "jade_cliffs": "2025-07-16 00:05:52 +0000",
       "old_growth_woodland": "2025-07-13 02:04:17 +0000",
       "crystalline_chasm": "2025-07-22 07:24:49 +0000",
+      "orchard": "2025-07-25 06:23:12 +0000",
       "overgrown_greens": "2025-07-13 03:02:41 +0000",
       "mediterranean_forest": "2025-07-19 08:24:34 +0000",
       "spider_nest": "2025-07-22 22:57:04 +0000",
       "redwood_forest": "2025-07-13 02:52:12 +0000",
+      "aspen_glade": "2025-07-25 06:22:46 +0000",
       "volcano": "2025-07-13 02:51:11 +0000",
       "rocky_rainforest": "2025-07-13 01:52:54 +0000",
+      "lavender_field": "2025-07-25 06:22:17 +0000",
       "prairie": "2025-07-14 06:05:00 +0000",
       "undergrowth": "2025-07-16 22:43:45 +0000",
       "rainforest": "2025-07-13 02:50:59 +0000"
@@ -9093,6 +9105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-25 06:29:30 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-07-25 05:48:54 +0000"
@@ -9102,6 +9120,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-25 04:11:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-07-25 06:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-25 06:28:29 +0000"
     },
     "done": true
   },
@@ -9126,6 +9156,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-25 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-07-25 06:29:30 +0000"
     },
     "done": true
   },
@@ -9204,6 +9240,12 @@
   "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-25 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-25 06:29:30 +0000"
     },
     "done": true
   },
