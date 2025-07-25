@@ -1494,6 +1494,7 @@
       "cooked_beef": "2025-07-13 03:19:42 +0000",
       "baked_potato": "2025-07-13 02:58:16 +0000",
       "bread": "2025-07-13 03:28:18 +0000",
+      "golden_apple": "2025-07-25 06:39:40 +0000",
       "rotten_flesh": "2025-07-19 05:19:04 +0000",
       "melon_slice": "2025-07-12 23:11:03 +0000",
       "carrot": "2025-07-13 03:19:49 +0000"
@@ -7328,6 +7329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-25 06:29:52 +0000"
@@ -7340,9 +7347,21 @@
     },
     "done": false
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-25 06:42:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-07-25 06:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:32:04 +0000"
     },
     "done": true
   },
@@ -7358,6 +7377,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 06:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:32:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-07-25 06:29:52 +0000"
@@ -7370,9 +7401,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-25 06:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-25 06:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:32:04 +0000"
     },
     "done": true
   },

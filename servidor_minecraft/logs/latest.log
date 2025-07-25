@@ -4102,3 +4102,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 06:31:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [The End?]
 [25Jul2025 06:31:51.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer moved too quickly! -3341.92849326958,8.392604549951344,4017.356519106927
 [25Jul2025 06:31:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [The End?]
+[25Jul2025 06:36:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Take Aim]
+[25Jul2025 06:38:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Free the End]
+[25Jul2025 06:39:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [A little cleaning is necessary]
+[25Jul2025 06:40:47.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Remote Getaway]
+[25Jul2025 06:42:07.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
+[25Jul2025 06:42:07.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
+[25Jul2025 06:42:07.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[25Jul2025 06:42:24.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Remote Getaway]
+[25Jul2025 06:42:34.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.177.114.205:38007] logged in with entity id 3228177 at (-29.249991824200453, -161.336021900193, -83.45622403984409)
+[25Jul2025 06:42:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[25Jul2025 06:42:34.162] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[25Jul2025 06:42:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 fell out of the world
+[25Jul2025 06:42:34.663] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-06.42.34.dat
+[25Jul2025 06:42:34.673] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 06:43:11.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[25Jul2025 06:43:14.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 was kicked for floating too long!
+[25Jul2025 06:43:14.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Flying is not enabled on this server
+[25Jul2025 06:43:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[25Jul2025 06:43:53.994] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c748a7b[id=<null>,name=Ent144,properties={},legacy=false] (/127.171.113.235:38255) lost connection: Disconnected
+[25Jul2025 06:43:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Discreet Search]
+[25Jul2025 06:44:27.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Remote Getaway]
+[25Jul2025 06:44:30.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ba346eb[id=<null>,name=Ent144,properties={},legacy=false] (/127.171.113.235:55427) lost connection: Disconnected
+[25Jul2025 06:44:41.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:38661] logged in with entity id 3257206 at (-23.623096521915528, -145.55323012635586, -73.24575997153178)
+[25Jul2025 06:44:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[25Jul2025 06:44:41.109] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[25Jul2025 06:44:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 fell out of the world
+[25Jul2025 06:44:42.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_25.07.2025-06.44.42.dat
+[25Jul2025 06:44:42.136] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[25Jul2025 06:46:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Remote Getaway]
+[25Jul2025 06:54:59.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [A Ruined Citadel]
+[25Jul2025 06:55:16.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
+[25Jul2025 06:55:16.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
+[25Jul2025 06:55:16.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game

@@ -17667,27 +17667,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bale": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_the_recipe": "2025-07-25 05:31:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/doormat_2": {
-    "criteria": {
-      "forge:crops/flax": "2025-07-25 05:01:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-25 04:52:49 +0000"
+      "distract_piglin": "2025-07-25 03:48:50 +0000"
     },
     "done": true
   },
@@ -17697,15 +17679,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/tomato": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "has_the_recipe": "2025-07-25 05:32:30 +0000"
+      "has_tomato": "2025-07-25 04:48:58 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/strings": {
+  "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
-      "has_flax": "2025-07-25 05:01:05 +0000"
+      "has_tomato": "2025-07-25 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 04:52:49 +0000"
     },
     "done": true
   },
@@ -17715,21 +17703,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/rice": {
+  "supplementaries:recipes/doormat_2": {
     "criteria": {
-      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
+      "forge:crops/flax": "2025-07-25 05:01:05 +0000"
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "supplementaries:recipes/strings": {
     "criteria": {
-      "distract_piglin": "2025-07-25 03:48:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-07-25 04:48:58 +0000"
+      "has_flax": "2025-07-25 05:01:05 +0000"
     },
     "done": true
   },
@@ -17751,9 +17733,87 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/tomato_seeds": {
+  "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
-      "has_tomato": "2025-07-25 04:48:58 +0000"
+      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_the_recipe": "2025-07-25 05:31:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_the_recipe": "2025-07-25 05:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-25 06:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-25 06:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-25 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 06:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-25 06:46:49 +0000"
     },
     "done": true
   },
