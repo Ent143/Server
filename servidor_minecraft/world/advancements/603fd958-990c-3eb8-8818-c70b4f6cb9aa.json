@@ -12295,6 +12295,7 @@
       "cataclysm:the_harbinger": "2025-07-17 04:48:46 +0000",
       "cataclysm:scylla": "2025-07-19 22:41:15 +0000",
       "cataclysm:the_leviathan": "2025-07-18 03:00:38 +0000",
+      "cataclysm:ignis": "2025-07-25 08:52:23 +0000",
       "cataclysm:ancient_remnant": "2025-07-19 08:55:56 +0000"
     },
     "done": false
@@ -18554,6 +18555,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-25 08:33:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-25 08:52:23 +0000"
     },
     "done": true
   },
