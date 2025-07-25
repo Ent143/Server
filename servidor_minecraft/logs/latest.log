@@ -4195,3 +4195,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 07:15:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [Leeroy Is Back]
 [25Jul2025 07:15:26.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [25Jul2025 07:15:54.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jul2025 07:16:12.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[25Jul2025 07:16:31.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[25Jul2025 07:16:49.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 07:18:07.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-900, y=229, z=-1919} BlockPos{x=-902, y=229, z=-1919}
+[25Jul2025 07:18:24.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward was kicked for floating too long!
+[25Jul2025 07:18:24.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Flying is not enabled on this server
+[25Jul2025 07:18:24.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[25Jul2025 07:18:44.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.111.217.61:39545] logged in with entity id 3897923 at (-976.5420705161969, 1.1994290916075885, -1915.9956602956736)
+[25Jul2025 07:18:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[25Jul2025 07:18:44.380] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[25Jul2025 07:18:58.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward was kicked for floating too long!
+[25Jul2025 07:18:58.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Flying is not enabled on this server
+[25Jul2025 07:18:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[25Jul2025 07:19:35.651] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6007c6b1[id=<null>,name=DuckHoward,properties={},legacy=false] (/127.111.217.61:38713) lost connection: Disconnected
+[25Jul2025 07:19:46.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.111.217.61:52187] logged in with entity id 3912803 at (-976.3770619917516, -216.87185445718285, -1915.8198621211106)
+[25Jul2025 07:19:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[25Jul2025 07:19:46.275] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[25Jul2025 07:19:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward fell out of the world
+[25Jul2025 07:19:46.821] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[25Jul2025 07:20:04.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 07:20:24.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4945ms or 98 ticks behind
+[25Jul2025 07:20:43.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[25Jul2025 07:21:02.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[25Jul2025 07:21:19.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[25Jul2025 07:22:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> -920 -1891
+[25Jul2025 07:23:49.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer moved too quickly! -3.2987778340791465,0.0,-9.61246085193011
+[25Jul2025 07:25:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> -760 -1149
