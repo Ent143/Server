@@ -9399,3 +9399,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 05:52:12.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5467ms or 109 ticks behind
 [25Jul2025 05:52:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> 3459 -4017
 [25Jul2025 05:52:35.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
+[25Jul2025 05:53:00.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9040ms or 180 ticks behind
+[25Jul2025 05:53:21.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6793ms or 135 ticks behind
+[25Jul2025 05:53:44.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8011ms or 160 ticks behind
+[25Jul2025 05:54:08.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9010ms or 180 ticks behind
+[25Jul2025 05:54:32.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9180ms or 183 ticks behind
+[25Jul2025 05:54:57.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9236ms or 184 ticks behind
+[25Jul2025 05:55:21.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9634ms or 192 ticks behind
+[25Jul2025 05:55:46.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9978ms or 199 ticks behind
+[25Jul2025 05:56:10.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8854ms or 177 ticks behind
+[25Jul2025 05:56:34.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8687ms or 173 ticks behind
+[25Jul2025 05:56:57.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8887ms or 177 ticks behind
+[25Jul2025 05:57:18.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 05:57:18.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 05:57:18.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 10.349434697509878,0.0,1.0162156043557786
+[25Jul2025 05:57:25.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12237ms or 244 ticks behind
+[25Jul2025 05:57:49.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8939ms or 178 ticks behind
+[25Jul2025 05:58:13.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9476ms or 189 ticks behind
+[25Jul2025 05:58:39.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10513ms or 210 ticks behind
+[25Jul2025 05:59:05.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10999ms or 219 ticks behind
+[25Jul2025 05:59:30.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10732ms or 214 ticks behind
+[25Jul2025 05:59:55.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9926ms or 198 ticks behind
+[25Jul2025 06:00:20.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10256ms or 205 ticks behind
+[25Jul2025 06:00:45.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9794ms or 195 ticks behind
+[25Jul2025 06:01:07.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7107ms or 142 ticks behind
+[25Jul2025 06:01:28.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5781ms or 115 ticks behind
+[25Jul2025 06:01:47.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
+[25Jul2025 06:02:06.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[25Jul2025 06:02:27.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5377ms or 107 ticks behind
+[25Jul2025 06:02:44.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[25Jul2025 06:02:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Strange Encounter]
