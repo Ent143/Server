@@ -17939,15 +17939,537 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/cataclysm/chorus_pyramid_gate": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_log_parapet": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_beach_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_rope_bridge_stair_recycle": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/cataclysm/item_shelf_chorus": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_japanese_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_plank_parapet": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_stable_head_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_plank_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_rope_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/cataclysm/chorus_wired_fence": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_bark_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/cataclysm/chorus_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_desk": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_nether_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_plank_four_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/cataclysm/chorus_picket_fence": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_barn_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_modern_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_paper_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_log_bridge_middle": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_four_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_shutter": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_cottage_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_classic_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_table": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/cataclysm/soul_chorus_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_waffle_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_swamp_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_mystic_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/cataclysm/chorus_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_bamboo_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_louvered_shutter": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_barn_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_stable_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-07-25 07:21:35 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/ru/cataclysm/chorus_branch_from_chorus_log": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcp/cataclysm/chorus_planks_path": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-07-25 07:27:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/cataclysm/sign_post_chorus": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_tropical_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/chorus_bridge_pier": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_plank_window2": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_japanese2_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_window2": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/cataclysm/chorus_highley_gate": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/cataclysm/chorus_plank_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/cataclysm/chorus_stockade_fence": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_barred_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_four_panel_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/cataclysm/chorus_planks_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/cataclysm/rope_chorus_bridge": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/cataclysm/chorus_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/cataclysm/chorus_western_door": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
     },
     "done": true
   },

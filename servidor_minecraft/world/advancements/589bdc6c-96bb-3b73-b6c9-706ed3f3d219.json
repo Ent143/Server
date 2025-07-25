@@ -3191,6 +3191,7 @@
       "minecraft:wither_skeleton": "2025-07-14 03:38:43 +0000",
       "minecraft:husk": "2025-07-19 07:52:39 +0000",
       "minecraft:ender_dragon": "2025-07-25 06:38:39 +0000",
+      "minecraft:shulker": "2025-07-25 07:47:12 +0000",
       "minecraft:cave_spider": "2025-07-14 03:17:12 +0000",
       "minecraft:piglin": "2025-07-22 07:08:37 +0000",
       "minecraft:enderman": "2025-07-14 04:40:21 +0000",
@@ -12091,6 +12092,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-25 07:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-25 07:42:41 +0000"
     },
     "done": true
   },
