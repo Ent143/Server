@@ -4251,3 +4251,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 07:52:07.807] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
 [25Jul2025 07:52:07.807] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
 [25Jul2025 07:53:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Three Little Birds]
+[25Jul2025 07:58:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Palette Swap]
+[25Jul2025 08:04:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [The City at the End of the Game]
+[25Jul2025 08:05:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Sky's the Limit]
+[25Jul2025 08:05:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has completed the challenge [Was that a Shulker?]
