@@ -4135,3 +4135,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 06:55:16.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
 [25Jul2025 06:55:16.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
 [25Jul2025 06:55:16.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[25Jul2025 06:55:35.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.177.114.205:38731] logged in with entity id 3483882 at (-812.0224089604657, -135.70999486039022, -1816.7615858008203)
+[25Jul2025 06:55:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[25Jul2025 06:55:35.822] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[25Jul2025 06:55:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 fell out of the world
+[25Jul2025 06:55:36.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-06.55.36.dat
+[25Jul2025 06:55:36.303] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 06:56:19.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[25Jul2025 06:56:49.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [A Ruined Citadel]
+[25Jul2025 06:57:01.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [A Ruined Citadel]
+[25Jul2025 06:57:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Hunt and Gather]
+[25Jul2025 06:57:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Mastery 1]
+[25Jul2025 06:57:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Powder Snow Walk]
+[25Jul2025 06:57:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Palette Swap]
+[25Jul2025 07:01:49.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [The Imperial March]
+[25Jul2025 07:03:07.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Hoglin
+[25Jul2025 07:03:07.368] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-07.03.07.dat
+[25Jul2025 07:03:07.379] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 07:05:35.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! 4.843365986825802,-10.0,2.532231951711765
+[25Jul2025 07:05:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Was that a Shulker?]

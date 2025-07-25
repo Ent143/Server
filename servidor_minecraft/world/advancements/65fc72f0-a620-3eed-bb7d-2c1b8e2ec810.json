@@ -9376,78 +9376,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/discreet_search": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-25 06:55:15 +0000",
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
+      "coded_trigger": "2025-07-25 06:43:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 06:54:17 +0000"
-    },
-    "done": false
   },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
@@ -9455,9 +9388,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
-      "coded_trigger": "2025-07-25 06:43:54 +0000"
+      "has_emerald": "2025-07-25 06:59:01 +0000"
     },
     "done": true
   },

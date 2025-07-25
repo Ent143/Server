@@ -2466,6 +2466,7 @@
       "minecraft:witch": "2025-07-13 01:41:59 +0000",
       "minecraft:wither_skeleton": "2025-07-14 04:25:20 +0000",
       "minecraft:husk": "2025-07-13 03:57:32 +0000",
+      "minecraft:shulker": "2025-07-25 06:55:40 +0000",
       "minecraft:cave_spider": "2025-07-13 02:59:57 +0000",
       "minecraft:piglin": "2025-07-16 22:22:41 +0000",
       "minecraft:enderman": "2025-07-13 01:10:54 +0000",
@@ -17814,6 +17815,24 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-07-25 06:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-07-25 06:59:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-25 06:54:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-25 06:57:36 +0000"
     },
     "done": true
   },
