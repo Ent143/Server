@@ -17531,124 +17531,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-23 08:02:25 +0000",
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 08:02:21 +0000"
-    },
-    "done": false
-  },
-  "mcwstairs:recipes/quartz": {
-    "criteria": {
-      "has_planks": "2025-07-23 06:47:26 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/use_scribe": {
     "criteria": {
       "coded_trigger": "2025-07-23 06:13:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "has_quartz_block": "2025-07-23 06:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-23 06:47:26 +0000"
+      "coded_trigger": "2025-07-23 06:13:49 +0000"
     },
     "done": true
   },
   "tombstone:adventure/ancient_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-23 06:15:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken_smithing": {
-    "criteria": {
-      "has_chicken": "2025-07-23 07:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-23 06:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-07-23 06:47:26 +0000"
     },
     "done": true
   },
@@ -17664,15 +17561,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-07-23 06:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-07-23 06:47:26 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_milk_bucket": "2025-07-23 07:39:27 +0000"
+      "has_quartz_block": "2025-07-23 06:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-23 06:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-23 06:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-23 06:47:26 +0000"
     },
     "done": true
   },
@@ -17688,21 +17609,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-07-23 06:13:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-23 06:47:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-07-23 07:39:27 +0000"
     },
     "done": true
   },
@@ -17727,6 +17636,24 @@
   "travelersbackpack:recipes/misc/cake_smithing": {
     "criteria": {
       "has_cake": "2025-07-23 07:35:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-07-23 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-23 07:39:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-23 07:39:27 +0000"
     },
     "done": true
   },
