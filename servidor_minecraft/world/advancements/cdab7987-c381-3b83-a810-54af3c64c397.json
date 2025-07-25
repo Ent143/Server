@@ -2810,6 +2810,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_caves": "2025-07-25 05:27:43 +0000",
       "bamboo_forest": "2025-07-13 01:38:12 +0000",
       "redwoods": "2025-07-13 01:38:00 +0000"
     },
@@ -7286,6 +7287,12 @@
       "has_potato": "2025-07-25 04:24:45 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-25 05:27:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
