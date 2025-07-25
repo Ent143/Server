@@ -9393,73 +9393,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 07:32:32 +0000"
+      "log_spam_fixer": "2025-07-25 07:42:32 +0000"
     },
     "done": false
   },
@@ -9499,9 +9499,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
     },
     "done": true
   },
@@ -9547,15 +9565,45 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-25 07:38:24 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/dark_prismarine": {
     "criteria": {
       "has_wood": "2025-07-25 07:02:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-25 07:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-25 07:41:31 +0000"
     },
     "done": true
   },
