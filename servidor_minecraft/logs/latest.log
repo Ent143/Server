@@ -4255,3 +4255,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 08:04:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [The City at the End of the Game]
 [25Jul2025 08:05:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Sky's the Limit]
 [25Jul2025 08:05:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has completed the challenge [Was that a Shulker?]
+[25Jul2025 08:08:04.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! -1.5786669881076705,-8.0,6.142881525155644
+[25Jul2025 08:08:48.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 was kicked for floating too long!
+[25Jul2025 08:08:48.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Flying is not enabled on this server
+[25Jul2025 08:08:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[25Jul2025 08:09:04.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:41649] logged in with entity id 4777772 at (-2429.841388386622, -163.48006588731477, -4472.247440897567)
+[25Jul2025 08:09:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[25Jul2025 08:09:04.536] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[25Jul2025 08:09:05.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 fell out of the world
+[25Jul2025 08:09:05.048] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_25.07.2025-08.09.05.dat
+[25Jul2025 08:09:05.096] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[25Jul2025 08:10:08.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5268ms or 105 ticks behind
+[25Jul2025 08:15:28.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Strange Mount]

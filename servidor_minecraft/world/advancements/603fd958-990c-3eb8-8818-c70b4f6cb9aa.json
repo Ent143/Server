@@ -17939,15 +17939,21 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_modern_desk": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_item": "2025-07-25 07:42:52 +0000"
+      "has_chorus_fruit": "2025-07-25 07:21:35 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_aviary": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "location0": "2025-07-25 07:53:29 +0000"
+      "location0": "2025-07-25 07:27:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/cataclysm/chorus_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-25 07:42:52 +0000"
     },
     "done": true
   },
@@ -18269,12 +18275,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-07-25 07:21:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/ru/cataclysm/chorus_branch_from_chorus_log": {
     "criteria": {
       "has_item": "2025-07-25 07:42:52 +0000"
@@ -18290,12 +18290,6 @@
   "everycomp:recipes/decorations/mcb/cataclysm/chorus_log_bridge_stair": {
     "criteria": {
       "has_item": "2025-07-25 07:42:52 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-07-25 07:27:10 +0000"
     },
     "done": true
   },
@@ -18476,6 +18470,24 @@
   "everycomp:recipes/decorations/mcd/cataclysm/chorus_western_door": {
     "criteria": {
       "has_item": "2025-07-25 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-07-25 07:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-25 08:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-25 08:05:17 +0000"
     },
     "done": true
   },

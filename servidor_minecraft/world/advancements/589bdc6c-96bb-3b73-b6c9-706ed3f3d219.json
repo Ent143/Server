@@ -12101,6 +12101,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-25 08:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-07-25 07:57:06 +0000"
@@ -12130,6 +12136,12 @@
       "has_purpur_block": "2025-07-25 07:57:06 +0000"
     },
     "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ender_guardian": "2025-07-25 08:05:20 +0000"
+    },
+    "done": false
   },
   "minecraft:end/find_end_city": {
     "criteria": {
