@@ -17945,5 +17945,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-07-25 07:27:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
