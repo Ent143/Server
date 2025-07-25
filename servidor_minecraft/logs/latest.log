@@ -4154,3 +4154,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Jul2025 07:03:07.379] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [25Jul2025 07:05:35.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! 4.843365986825802,-10.0,2.532231951711765
 [25Jul2025 07:05:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Was that a Shulker?]
+[25Jul2025 07:07:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Hoglin
+[25Jul2025 07:07:41.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-07.07.41.dat
+[25Jul2025 07:07:41.304] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 07:09:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Wither Skeleton
+[25Jul2025 07:09:27.245] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-07.09.27.dat
+[25Jul2025 07:09:27.265] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 07:09:45.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[25Jul2025 07:10:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer fell from a high place
+[25Jul2025 07:10:00.239] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_25.07.2025-07.10.00.dat
+[25Jul2025 07:10:00.244] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[25Jul2025 07:10:22.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[25Jul2025 07:10:48.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Wither Skeleton
+[25Jul2025 07:10:48.298] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.villager_25.07.2025-07.10.48.dat
+[25Jul2025 07:10:48.319] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 07:11:00.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Jul2025 07:11:19.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[25Jul2025 07:11:34.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Chain Death]
+[25Jul2025 07:11:34.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Wither Skeleton
+[25Jul2025 07:11:34.389] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[25Jul2025 07:11:50.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 was kicked for floating too long!
+[25Jul2025 07:11:50.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Flying is not enabled on this server
+[25Jul2025 07:11:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[25Jul2025 07:11:51.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 07:12:06.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:47801] logged in with entity id 3804257 at (-519.5626480282268, -229.5233846866426, -2345.6223673687136)
+[25Jul2025 07:12:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[25Jul2025 07:12:06.439] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[25Jul2025 07:12:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 fell out of the world
+[25Jul2025 07:12:07.126] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_25.07.2025-07.12.07.dat
+[25Jul2025 07:12:07.321] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[25Jul2025 07:12:20.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[25Jul2025 07:12:37.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! 8.290816316852442,0.0,5.821099815089212
+[25Jul2025 07:12:44.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9376ms or 187 ticks behind
+[25Jul2025 07:13:05.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
+[25Jul2025 07:13:25.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5437ms or 108 ticks behind
+[25Jul2025 07:13:45.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> xd
+[25Jul2025 07:13:46.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5808ms or 116 ticks behind
+[25Jul2025 07:14:04.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[25Jul2025 07:14:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Where Is The Stone Pen?]
+[25Jul2025 07:15:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [Leeroy Is Back]
+[25Jul2025 07:15:26.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[25Jul2025 07:15:54.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

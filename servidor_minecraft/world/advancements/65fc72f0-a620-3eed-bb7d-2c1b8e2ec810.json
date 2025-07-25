@@ -1731,6 +1731,7 @@
       "minecraft:pillager": "2025-07-13 02:56:53 +0000",
       "minecraft:blaze": "2025-07-22 07:45:51 +0000",
       "minecraft:skeleton": "2025-07-13 00:37:56 +0000",
+      "minecraft:hoglin": "2025-07-25 07:07:34 +0000",
       "minecraft:vindicator": "2025-07-25 06:12:40 +0000",
       "minecraft:spider": "2025-07-14 08:05:07 +0000",
       "minecraft:creeper": "2025-07-14 07:50:53 +0000",
@@ -9388,9 +9389,93 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-25 07:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-25 07:04:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-25 07:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-25 07:06:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-07-25 07:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
       "has_emerald": "2025-07-25 06:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-25 07:05:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-07-25 07:06:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-25 07:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-25 07:04:43 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-07-25 07:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-25 07:02:18 +0000"
     },
     "done": true
   },
