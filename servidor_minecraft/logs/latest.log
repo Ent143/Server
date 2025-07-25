@@ -3147,3 +3147,650 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:55.836] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:55.837] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@701c1217, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:55.838] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:55.838] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@58c0e25, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:56.003] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:56.004] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4f7c4f67, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:56.005] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:56.005] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@1be323f5, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:56.229] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:56.230] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@76f8fcf4, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:56.231] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:56.231] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7a004704, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:59.360] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:59.360] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7d0a68b9, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:59.361] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1d30f4c4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@51e26142 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@2162ca9d onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: LOW
+		12: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.4.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:978)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25Jul2025 04:30:59.362] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@c9ccc1a, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23172!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.4.0-universal.jar%23232!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:978) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25Jul2025 04:30:59.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[25Jul2025 04:31:28.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[25Jul2025 04:31:28.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[25Jul2025 04:31:45.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.223.47.202:42091] logged in with entity id 1043245 at (-650.2485751362274, 64.0, 472.97645792363113)
+[25Jul2025 04:31:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[25Jul2025 04:31:45.564] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[25Jul2025 04:31:55.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[25Jul2025 04:31:55.155] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.blaze_25.07.2025-04.31.55.dat
+[25Jul2025 04:31:55.177] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[25Jul2025 04:33:13.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Jul2025 04:33:32.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[25Jul2025 04:33:50.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[25Jul2025 04:34:25.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 04:34:42.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[25Jul2025 04:35:01.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Jul2025 04:36:30.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 04:36:48.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[25Jul2025 04:37:05.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[25Jul2025 04:37:23.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[25Jul2025 04:37:41.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[25Jul2025 04:37:59.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[25Jul2025 04:38:17.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2785ms or 55 ticks behind
+[25Jul2025 04:38:34.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
