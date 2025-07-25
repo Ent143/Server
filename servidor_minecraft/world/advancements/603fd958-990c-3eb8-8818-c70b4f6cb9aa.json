@@ -4545,7 +4545,9 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-07-25 04:52:32 +0000",
+      "onion": "2025-07-25 05:07:59 +0000",
       "tomato": "2025-07-25 04:48:25 +0000",
+      "rice": "2025-07-25 05:14:30 +0000",
       "sugar_cane": "2025-07-14 05:55:22 +0000",
       "potato": "2025-07-14 07:08:13 +0000",
       "wheat": "2025-07-13 02:26:16 +0000"
@@ -17667,75 +17669,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:06:39 +0000"
+      "log_spam_fixer": "2025-07-25 05:18:28 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/doormat_2": {
     "criteria": {
@@ -17767,6 +17775,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-07-25 05:14:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-07-25 03:48:50 +0000"
@@ -17788,6 +17802,12 @@
   "supplementaries:recipes/rope": {
     "criteria": {
       "forge:crops/flax": "2025-07-25 05:01:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-07-25 05:14:30 +0000"
     },
     "done": true
   },
