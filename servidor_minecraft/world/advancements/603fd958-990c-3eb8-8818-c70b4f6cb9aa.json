@@ -17657,11 +17657,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
-      "requirement": "2025-07-25 03:26:48 +0000"
+      "has_rose_quartz_chunk": "2025-07-25 03:29:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-25 03:48:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
