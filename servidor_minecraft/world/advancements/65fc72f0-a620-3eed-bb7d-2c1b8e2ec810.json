@@ -9614,6 +9614,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-07-26 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-07-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-07-26 04:16:48 +0000"
