@@ -18624,6 +18624,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-07-26 04:28:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-07-26 03:59:46 +0000"
