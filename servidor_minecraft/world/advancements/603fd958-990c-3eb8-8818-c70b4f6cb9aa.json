@@ -12295,13 +12295,14 @@
     "criteria": {
       "cataclysm:maledictus": "2025-07-18 05:58:05 +0000",
       "cataclysm:ender_guardian": "2025-07-25 07:05:43 +0000",
+      "cataclysm:netherite_monstrosity": "2025-07-26 06:25:16 +0000",
       "cataclysm:the_harbinger": "2025-07-17 04:48:46 +0000",
       "cataclysm:scylla": "2025-07-19 22:41:15 +0000",
       "cataclysm:the_leviathan": "2025-07-18 03:00:38 +0000",
       "cataclysm:ignis": "2025-07-25 08:52:23 +0000",
       "cataclysm:ancient_remnant": "2025-07-19 08:55:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
@@ -18627,6 +18628,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-26 06:31:57 +0000",
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 06:31:35 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
       "has_emerald": "2025-07-26 04:28:05 +0000"
@@ -18642,6 +18716,12 @@
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-07-26 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-07-26 06:25:16 +0000"
     },
     "done": true
   },

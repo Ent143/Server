@@ -942,3 +942,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jul2025 06:25:16.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [The broken Nether's warmachine]
 [26Jul2025 06:25:16.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [The Cataclysmfarer]
 [26Jul2025 06:26:52.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[26Jul2025 06:32:10.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[26Jul2025 06:32:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[26Jul2025 06:32:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 06:32:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 06:32:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 06:32:18.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 06:32:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 06:32:18.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 06:32:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 06:32:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 06:32:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 06:32:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jul2025 06:32:20.459] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
