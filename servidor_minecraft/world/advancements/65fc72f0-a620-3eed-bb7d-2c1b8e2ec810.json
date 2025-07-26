@@ -9614,5 +9614,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-26 04:16:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
