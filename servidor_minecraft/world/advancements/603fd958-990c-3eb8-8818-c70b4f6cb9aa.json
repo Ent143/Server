@@ -18652,5 +18652,143 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-08-02 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_redwood": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
