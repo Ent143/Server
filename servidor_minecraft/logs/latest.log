@@ -374,3 +374,18 @@
 [02Aug2025 23:32:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by PussyDestroyer
 [02Aug2025 23:32:30.483] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [02Aug2025 23:33:58.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Aug2025 23:34:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 froze to death
+[02Aug2025 23:34:45.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_02.08.2025-23.34.45.dat
+[02Aug2025 23:34:45.326] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[02Aug2025 23:36:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer froze to death
+[02Aug2025 23:36:17.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_02.08.2025-23.36.17.dat
+[02Aug2025 23:36:17.285] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[02Aug2025 23:42:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 froze to death
+[02Aug2025 23:42:09.280] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_02.08.2025-23.42.09.dat
+[02Aug2025 23:42:09.314] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[02Aug2025 23:43:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[02Aug2025 23:43:06.677] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cristh715 with unique ID travelersbackpack.fox_02.08.2025-23.43.06.dat
+[02Aug2025 23:43:06.698] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[02Aug2025 23:43:45.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 23:44:13.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Aug2025 23:44:46.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
