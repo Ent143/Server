@@ -287,3 +287,12 @@
 [02Aug2025 22:49:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> -924 -1890
 [02Aug2025 22:50:43.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! 4.224426951611463,5.318961803097906,7.714287267993768
 [02Aug2025 22:50:43.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
+[02Aug2025 22:56:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [Sky's the Limit]
+[02Aug2025 23:00:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer hit the ground too hard whilst trying to escape Enderman
+[02Aug2025 23:00:50.681] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_02.08.2025-23.00.50.dat
+[02Aug2025 23:00:51.237] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[02Aug2025 23:00:51.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 1.3348671810001633,0.8531149725541951,-18.175903405888448
+[02Aug2025 23:01:00.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer moved too quickly! -3341.8062774570053,8.31648481577529,4017.647656657459
+[02Aug2025 23:01:26.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! -5.087768498536207,1.5448140555330667,8.519651139688676
+[02Aug2025 23:01:26.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 1.0939594769953942,-0.10000000000000142,10.216489195916893
+[02Aug2025 23:01:26.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6939ms or 138 ticks behind
