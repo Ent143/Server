@@ -281,3 +281,9 @@
 [02Aug2025 22:41:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
 [02Aug2025 22:41:33.497] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
 [02Aug2025 22:42:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> -806 -1133
+[02Aug2025 22:47:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [The Most Useful Key]
+[02Aug2025 22:47:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Quickly Applied]
+[02Aug2025 22:48:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [A Fast Comeback]
+[02Aug2025 22:49:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> -924 -1890
+[02Aug2025 22:50:43.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! 4.224426951611463,5.318961803097906,7.714287267993768
+[02Aug2025 22:50:43.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
