@@ -7547,6 +7547,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-08-03 00:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-02 22:56:01 +0000"
@@ -7574,6 +7580,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-08-03 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-03 00:34:14 +0000"
     },
     "done": true
   },
@@ -7610,6 +7622,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-02 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2025-08-03 00:34:14 +0000"
     },
     "done": true
   },
