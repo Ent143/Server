@@ -7534,6 +7534,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-08-02 23:49:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2025-08-02 23:32:17 +0000"
@@ -7552,6 +7558,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-08-02 23:49:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-02 23:32:17 +0000"
@@ -7561,6 +7573,18 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-02 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-02 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 23:50:38 +0000"
     },
     "done": true
   },
@@ -7576,9 +7600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-02 23:50:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox_smithing": {
     "criteria": {
       "has_fox": "2025-08-02 23:32:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:49:58 +0000"
     },
     "done": true
   },
@@ -7600,9 +7636,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-02 23:32:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-02 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-02 23:49:58 +0000"
     },
     "done": true
   },

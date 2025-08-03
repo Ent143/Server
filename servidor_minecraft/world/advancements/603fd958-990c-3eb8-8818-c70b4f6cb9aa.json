@@ -18712,6 +18712,12 @@
     },
     "done": true
   },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
     "criteria": {
       "has_item": "2025-08-02 23:11:49 +0000"
@@ -18730,9 +18736,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
     },
     "done": true
   },
