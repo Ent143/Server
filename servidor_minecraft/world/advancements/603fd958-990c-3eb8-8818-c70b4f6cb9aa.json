@@ -18688,6 +18688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-03 00:18:46 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-08-03 00:04:23 +0000"
@@ -18733,6 +18739,12 @@
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_burning_blossom": "2025-08-02 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-08-03 00:18:40 +0000"
     },
     "done": true
   },
@@ -18796,6 +18808,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-08-03 00:21:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
@@ -18817,6 +18835,12 @@
   "mcwbiomesoplenty:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-08-03 00:17:03 +0000"
     },
     "done": true
   },

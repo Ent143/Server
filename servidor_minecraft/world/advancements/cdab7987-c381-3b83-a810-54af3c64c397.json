@@ -5364,6 +5364,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-07-19 07:40:46 +0000",
+      "wheat": "2025-08-03 00:18:23 +0000",
       "carrot": "2025-07-16 20:59:52 +0000"
     },
     "done": false
@@ -7681,6 +7682,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-02 23:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-03 00:18:23 +0000"
     },
     "done": true
   },
