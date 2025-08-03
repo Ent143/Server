@@ -217,3 +217,9 @@
 [03Aug2025 02:20:50.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
 [03Aug2025 03:23:50.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
 [03Aug2025 03:41:17.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[03Aug2025 04:25:48.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 1.1043676132633777,14.221787954808406,11.129164416720641
+[03Aug2025 04:26:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 04:26:37.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 04:26:37.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Server closed
+[03Aug2025 04:26:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[03Aug2025 04:26:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
