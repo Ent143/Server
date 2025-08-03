@@ -213,3 +213,4 @@
 [03Aug2025 01:07:21.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [03Aug2025 01:09:38.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
 [03Aug2025 01:09:38.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[03Aug2025 01:37:01.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-737, y=63, z=492} BlockPos{x=-735, y=63, z=492}
