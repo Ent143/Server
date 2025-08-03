@@ -970,6 +970,7 @@
       "redstone_caves": "2025-07-19 20:42:23 +0000",
       "poppy_fields": "2025-07-22 06:32:37 +0000",
       "grassy_beach": "2025-07-15 06:45:42 +0000",
+      "scorching_caves": "2025-08-03 03:41:39 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "blackwood_taiga": "2025-07-16 01:15:57 +0000",
       "mycotoxic_undergrowth": "2025-07-16 22:25:36 +0000",
@@ -8609,6 +8610,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-07-19 20:42:23 +0000",
+      "scorching_caves": "2025-08-03 03:41:39 +0000",
       "ancient_delta": "2025-07-15 04:17:20 +0000"
     },
     "done": false
@@ -18835,6 +18837,12 @@
   "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
     "criteria": {
       "has_item": "2025-08-02 23:11:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-03 03:01:05 +0000"
     },
     "done": true
   },
