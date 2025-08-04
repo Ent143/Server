@@ -307,3 +307,37 @@
 [04Aug2025 21:24:43.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [04Aug2025 21:24:45.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 16.086575960576738,-2.2907602080913136,-6.896324989208608
 [04Aug2025 21:25:30.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[04Aug2025 21:30:10.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Aug2025 21:31:34.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! -2.4418690629797766,-9.433435238533406,2.319730804612391
+[04Aug2025 21:31:35.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 21:32:09.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[04Aug2025 21:34:26.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [You Are A Pirate]
+[04Aug2025 21:36:07.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Fortuitous Militia]
+[04Aug2025 21:36:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was killed by magic whilst trying to escape Pillager
+[04Aug2025 21:36:08.984] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[04Aug2025 21:36:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XD
+[04Aug2025 21:46:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Wingin' It]
+[04Aug2025 21:47:14.727] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:14.729] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:14.737] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:14.738] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:14.758] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:14.758] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Aug2025 21:47:15.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[04Aug2025 21:47:17.563] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04Aug2025 21:47:17.564] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04Aug2025 21:47:17.571] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[04Aug2025 21:47:17.571] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[04Aug2025 21:47:17.572] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[04Aug2025 21:47:17.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04Aug2025 21:47:17.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04Aug2025 21:47:17.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04Aug2025 21:47:17.752] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04Aug2025 21:47:17.752] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04Aug2025 21:47:17.758] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[04Aug2025 21:47:17.758] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[04Aug2025 21:47:17.758] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[04Aug2025 21:50:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> oe
+[04Aug2025 21:57:03.752] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Aug2025 21:59:19.484] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[04Aug2025 21:59:36.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cristh715) moved too quickly! -0.48762760054160026,-4.476419235288631E-13,10.241048406717823

@@ -903,6 +903,7 @@
       "muskeg": "2025-07-18 01:50:15 +0000",
       "woodland": "2025-07-13 01:39:01 +0000",
       "shrubland": "2025-07-18 01:26:44 +0000",
+      "snowblossom_grove": "2025-08-04 21:48:20 +0000",
       "rocky_shrubland": "2025-07-22 21:36:30 +0000",
       "scrubland": "2025-07-13 04:24:26 +0000",
       "fungal_jungle": "2025-07-16 00:52:17 +0000",
@@ -946,7 +947,8 @@
       "gravel_beach": "2025-07-18 00:12:13 +0000",
       "undergrowth": "2025-07-16 22:12:14 +0000",
       "origin_valley": "2025-07-18 02:09:12 +0000",
-      "rainforest": "2025-07-12 22:51:15 +0000"
+      "rainforest": "2025-07-12 22:51:15 +0000",
+      "crag": "2025-08-04 21:30:16 +0000"
     },
     "done": false
   },
@@ -1007,6 +1009,7 @@
       "golden_boreal_taiga": "2025-07-18 01:27:53 +0000",
       "tropics": "2025-07-19 20:42:24 +0000",
       "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
+      "icy_heights": "2025-08-04 21:56:14 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -1060,6 +1063,7 @@
       "golden_boreal_taiga": "2025-07-18 01:27:53 +0000",
       "tropics": "2025-07-19 20:42:24 +0000",
       "hyacinth_deeps": "2025-07-18 01:07:17 +0000",
+      "icy_heights": "2025-08-04 21:56:14 +0000",
       "rainforest": "2025-07-17 03:38:27 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -18859,6 +18863,139 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-08-03 03:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000",
+      "has_the_recipe": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-08-04 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-08-04 21:48:24 +0000"
     },
     "done": true
   },
