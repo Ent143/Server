@@ -341,3 +341,50 @@
 [04Aug2025 21:57:03.752] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [04Aug2025 21:59:19.484] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [04Aug2025 21:59:36.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cristh715) moved too quickly! -0.48762760054160026,-4.476419235288631E-13,10.241048406717823
+[04Aug2025 22:01:39.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[04Aug2025 22:01:39.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 11.276895591166976,-2.0789862487526563,-13.727512323443506
+[04Aug2025 22:01:39.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! 1.1719229050727336,-0.43483356947862717,10.09879381481494
+[04Aug2025 22:02:00.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[04Aug2025 22:02:02.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[04Aug2025 22:02:02.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! 0.40357516714482244,-8.800338673691257,6.3790801426464725
+[04Aug2025 22:04:09.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Aug2025 22:04:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> llegaste?
+[04Aug2025 22:04:27.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[04Aug2025 22:04:30.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 3.719471386348232,-2.2567793446625046,-18.0359991835752
+[04Aug2025 22:04:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> al fin om
+[04Aug2025 22:04:45.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[04Aug2025 22:04:48.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> Encima te moriste no?
+[04Aug2025 22:05:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> si p
+[04Aug2025 22:05:04.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[04Aug2025 22:05:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> pipipi
+[04Aug2025 22:05:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> explota la casa de eros p de asao
+[04Aug2025 22:05:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> de verdad om
+[04Aug2025 22:05:22.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[04Aug2025 22:05:27.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> ya aumentaron cupos para todos los cursos
+[04Aug2025 22:05:30.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> tmr
+[04Aug2025 22:05:37.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> te dije om
+[04Aug2025 22:05:42.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4311ms or 86 ticks behind
+[04Aug2025 22:05:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> el viernes voy a ver si me puedo cambiar de secciónxd
+[04Aug2025 22:06:01.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
+[04Aug2025 22:06:17.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> de carrera om
+[04Aug2025 22:06:20.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[04Aug2025 22:06:41.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6270ms or 125 ticks behind
+[04Aug2025 22:06:59.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
+[04Aug2025 22:07:25.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:07:30.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> oe tengo una poción que te da frostbite XD
+[04Aug2025 22:07:47.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 22:07:50.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> a ver tomatela pa ver si funciona
+[04Aug2025 22:08:05.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[04Aug2025 22:08:24.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Aug2025 22:09:00.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Aug2025 22:09:17.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[04Aug2025 22:09:36.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 6.364341501524905,-1.9395081269443466,-16.363296197685486
+[04Aug2025 22:09:40.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 22:09:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> oe que fue con la casa del aldeano xd
+[04Aug2025 22:10:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> me llego al wbo p
+[04Aug2025 22:10:43.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04Aug2025 22:11:20.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Aug2025 22:11:38.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:11:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> oe donde estas
+[04Aug2025 22:11:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> estoy en tu casa para el pvp
+[04Aug2025 22:12:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ven p
