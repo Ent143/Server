@@ -4925,3 +4925,59 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Aug2025 22:11:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> oe donde estas
 [04Aug2025 22:11:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> estoy en tu casa para el pvp
 [04Aug2025 22:12:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ven p
+[04Aug2025 22:12:17.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Aug2025 22:12:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> ando en el -9100 -2200
+[04Aug2025 22:12:28.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> ah la shit
+[04Aug2025 22:12:34.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[04Aug2025 22:12:41.237] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[04Aug2025 22:12:41.240] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_nugget" - querying recipes to get these
+[04Aug2025 22:12:41.246] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[04Aug2025 22:12:57.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 22:13:15.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[04Aug2025 22:13:48.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 22:14:19.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[04Aug2025 22:14:21.011] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[04Aug2025 22:14:37.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[04Aug2025 22:15:00.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 22:15:00.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 22:15:01.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Aug2025 22:15:29.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:15:41.009] [Worker-Main-1/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-9528, y=0, z=-3176}
+[04Aug2025 22:16:40.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[04Aug2025 22:16:48.453] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[04Aug2025 22:16:57.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[04Aug2025 22:17:16.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Aug2025 22:17:42.979] [Worker-Main-1/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-9400, y=0, z=-3512}
+[04Aug2025 22:18:18.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:18:18.512] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[04Aug2025 22:18:18.550] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[04Aug2025 22:18:25.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 8.993924406146107,-2.0154166464929233,-15.883598906693805
+[04Aug2025 22:18:30.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 8.76782591056326,-3.8620864379043667,-15.480916096008968
+[04Aug2025 22:18:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> oe ven p
+[04Aug2025 22:18:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> miedo
+[04Aug2025 22:18:37.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[04Aug2025 22:18:39.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 9.160026590954658,-2.3513193430068213,-16.173323755308502
+[04Aug2025 22:18:49.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 8.759364455858304,-2.1833679626020768,-15.465898032754922
+[04Aug2025 22:18:53.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> tmr
+[04Aug2025 22:18:54.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[04Aug2025 22:18:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> con esa vaina de atracción
+[04Aug2025 22:19:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Te llevaste los maniqiu para lococar mis armaduras om
+[04Aug2025 22:19:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> xd?
+[04Aug2025 22:19:22.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> que habkas om
+[04Aug2025 22:19:28.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[04Aug2025 22:19:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> estaban todos en una esquina
+[04Aug2025 22:19:32.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDDDDD
+[04Aug2025 22:19:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XDDD
+[04Aug2025 22:19:44.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> aaaaaaa
+[04Aug2025 22:19:45.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[04Aug2025 22:19:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XDD
+[04Aug2025 22:20:03.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[04Aug2025 22:20:19.133] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[04Aug2025 22:20:27.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9114ms or 182 ticks behind
+[04Aug2025 22:20:35.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 22:20:35.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 22:20:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 22:20:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 22:20:43.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Server closed
+[04Aug2025 22:20:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[04Aug2025 22:20:43.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

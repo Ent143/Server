@@ -7054,6 +7054,7 @@
     "criteria": {
       "joshua_log": "2025-07-22 21:23:48 +0000",
       "magnolia_log": "2025-07-22 21:27:54 +0000",
+      "willow_log": "2025-08-04 22:13:30 +0000",
       "baobab_log": "2025-07-22 07:52:08 +0000",
       "eucalyptus_log": "2025-07-22 07:01:31 +0000",
       "mauve_log": "2025-07-17 06:17:54 +0000",
@@ -18866,6 +18867,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-04 22:20:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-08-04 21:48:24 +0000"
@@ -18902,6 +18975,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-08-04 22:11:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-04 21:48:24 +0000"
@@ -18933,9 +19012,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-08-04 22:13:30 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-08-04 22:13:18 +0000"
     },
     "done": true
   },
@@ -18990,6 +19081,18 @@
   "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-08-04 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 22:13:30 +0000"
     },
     "done": true
   },
