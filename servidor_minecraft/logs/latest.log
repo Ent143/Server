@@ -270,3 +270,30 @@
 [04Aug2025 20:30:50.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-426, y=71, z=408} BlockPos{x=-427, y=71, z=410}
 [04Aug2025 20:30:50.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-426, y=71, z=408} BlockPos{x=-427, y=71, z=410}
 [04Aug2025 20:32:30.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-429, y=67, z=400} BlockPos{x=-434, y=69, z=399}
+[04Aug2025 21:07:14.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Aug2025 21:09:20.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[04Aug2025 21:11:35.229] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[04Aug2025 21:12:32.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.207.29.121:53241] logged in with entity id 436454 at (-433.4563659019694, 54.0, 386.94260200455057)
+[04Aug2025 21:12:32.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[04Aug2025 21:12:32.782] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[04Aug2025 21:13:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> Vete om
+[04Aug2025 21:13:26.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> donde fue om
+[04Aug2025 21:14:01.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[04Aug2025 21:14:03.938] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: InvalidWaystone
+[04Aug2025 21:14:35.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> tmr XDDD
+[04Aug2025 21:15:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> donde chucha estas om
+[04Aug2025 21:15:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XD
+[04Aug2025 21:15:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> en el portal del end om
+[04Aug2025 21:15:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> quería subir
+[04Aug2025 21:15:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XDDD
+[04Aug2025 21:15:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> por no picar para arriba
+[04Aug2025 21:15:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> pero luego recordé que la waystone se perdió
+[04Aug2025 21:15:33.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDDDDD
+[04Aug2025 21:15:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Todavía que no quería romper tu casa om
+[04Aug2025 21:16:03.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> si siempre la rompes pa entrar om
+[04Aug2025 21:17:20.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> pasa coordenadas de la casa p
+[04Aug2025 21:17:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> no recuerdo donde era
+[04Aug2025 21:17:50.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> -720 500
+[04Aug2025 21:17:58.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> tas seguro?
+[04Aug2025 21:18:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> si quieres tambien om
+[04Aug2025 21:18:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> zzzz
