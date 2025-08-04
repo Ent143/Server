@@ -5064,3 +5064,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Aug2025 06:00:54.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 06:00:54.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 06:01:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Into Fire]
+[04Aug2025 06:03:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Magic Siphoner]
+[04Aug2025 06:05:54.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 06:05:54.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 06:08:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was slain by Spectral Wolf
+[04Aug2025 06:08:59.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_04.08.2025-06.08.59.dat
+[04Aug2025 06:08:59.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ent144 was created at position [x:-413, y:54, z:400, dim:minecraft:overworld]
+[04Aug2025 06:08:59.438] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[04Aug2025 06:10:54.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 06:10:54.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

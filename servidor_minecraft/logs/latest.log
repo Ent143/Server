@@ -376,3 +376,7 @@
 [04Aug2025 05:58:29.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [04Aug2025 05:58:56.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [04Aug2025 06:01:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Into Fire]
+[04Aug2025 06:03:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Magic Siphoner]
+[04Aug2025 06:08:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was slain by Spectral Wolf
+[04Aug2025 06:08:59.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_04.08.2025-06.08.59.dat
+[04Aug2025 06:08:59.438] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved

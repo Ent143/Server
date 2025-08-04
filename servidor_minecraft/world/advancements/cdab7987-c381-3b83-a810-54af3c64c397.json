@@ -2357,6 +2357,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-13 02:56:44 +0000",
+      "minecraft:blaze": "2025-08-04 06:01:16 +0000",
       "minecraft:skeleton": "2025-07-17 00:09:08 +0000",
       "minecraft:spider": "2025-07-13 02:41:29 +0000",
       "minecraft:creeper": "2025-07-16 23:50:58 +0000",
@@ -7715,9 +7716,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-04 06:10:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-04 06:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-04 06:01:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2025-08-04 05:14:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-04 06:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-04 06:01:18 +0000"
     },
     "done": true
   },
