@@ -19030,5 +19030,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-08-04 23:37:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
