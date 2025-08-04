@@ -18656,79 +18656,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-03 04:26:20 +0000",
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:25:48 +0000"
-    },
-    "done": false
-  },
   "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
@@ -18765,24 +18692,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-08-03 02:33:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-08-03 00:18:46 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-08-03 00:04:23 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
@@ -18807,27 +18716,9 @@
     },
     "done": true
   },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "blue_bioshroom": "2025-08-03 00:03:32 +0000"
-    },
-    "done": false
-  },
   "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
     "criteria": {
       "has_item": "2025-08-02 23:11:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
-    "criteria": {
-      "has_burning_blossom": "2025-08-02 23:12:57 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2025-08-03 00:18:40 +0000"
     },
     "done": true
   },
@@ -18837,27 +18728,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
-    "criteria": {
-      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
-    "criteria": {
-      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
-    "criteria": {
-      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
     },
     "done": true
   },
@@ -18891,12 +18764,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_mining_system": {
-    "criteria": {
-      "location0": "2025-08-03 00:21:54 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-08-02 23:11:49 +0000"
@@ -18915,21 +18782,81 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-08-03 03:01:05 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-08-02 23:11:49 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-08-02 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-03 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-08-03 00:04:23 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-08-03 00:17:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-08-03 00:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-03 00:18:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-08-03 00:21:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-03 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-03 03:01:05 +0000"
     },
     "done": true
   },
