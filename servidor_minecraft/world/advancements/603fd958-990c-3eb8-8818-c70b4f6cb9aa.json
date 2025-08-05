@@ -19030,12 +19030,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-08-05 01:31:40 +0000"
-    },
-    "done": false
-  },
   "mcwroofs:recipes/prismarine": {
     "criteria": {
       "has_planks": "2025-08-05 00:28:44 +0000"
@@ -19047,6 +19041,12 @@
       "has_cherry_sapling": "2025-08-04 23:37:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-05 02:01:40 +0000"
+    },
+    "done": false
   },
   "mcwbridges:recipes/prismarine_bricks_bridge_pier": {
     "criteria": {
