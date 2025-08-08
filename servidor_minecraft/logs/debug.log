@@ -5098,3 +5098,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 05:55:43.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [08Aug2025 05:57:28.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 05:57:28.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:01:19.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=87, z=-38} BlockPos{x=41, y=86, z=-38}
+[08Aug2025 06:01:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 burned to death
+[08Aug2025 06:01:24.780] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:40, y:85, z:-38, dim:minecraft:the_nether]
+[08Aug2025 06:01:24.829] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 06:01:35.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Aug2025 06:02:30.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:02:30.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:07:30.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:07:30.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:07:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was fireballed by Ghast
+[08Aug2025 06:07:33.400] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-17, y:132, z:-69, dim:minecraft:the_nether]
+[08Aug2025 06:07:33.404] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 06:07:50.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

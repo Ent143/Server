@@ -394,3 +394,10 @@
 [08Aug2025 05:55:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 tried to swim in lava
 [08Aug2025 05:55:26.056] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [08Aug2025 05:55:43.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[08Aug2025 06:01:19.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=87, z=-38} BlockPos{x=41, y=86, z=-38}
+[08Aug2025 06:01:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 burned to death
+[08Aug2025 06:01:24.829] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 06:01:35.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Aug2025 06:07:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was fireballed by Ghast
+[08Aug2025 06:07:33.404] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 06:07:50.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
