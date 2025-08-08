@@ -5375,3 +5375,53 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 07:59:21.534] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-07.59.21.dat
 [08Aug2025 07:59:21.535] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-745, y:57, z:516, dim:minecraft:overworld]
 [08Aug2025 07:59:21.538] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:02:55.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Ent144
+[08Aug2025 08:02:55.259] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.02.55.dat
+[08Aug2025 08:02:55.260] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-729, y:66, z:473, dim:minecraft:overworld]
+[08Aug2025 08:02:55.282] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:03:34.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.cataclysm.storm_bringer
+[08Aug2025 08:03:34.200] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.03.34.dat
+[08Aug2025 08:03:34.201] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-722, y:67, z:483, dim:minecraft:overworld]
+[08Aug2025 08:03:34.222] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:04:14.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.cataclysm.storm_bringer
+[08Aug2025 08:04:14.695] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.04.14.dat
+[08Aug2025 08:04:14.696] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-746, y:63, z:489, dim:minecraft:overworld]
+[08Aug2025 08:04:14.717] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:04:20.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 08:04:20.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 08:04:59.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Ent144
+[08Aug2025 08:04:59.756] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.04.59.dat
+[08Aug2025 08:04:59.757] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-709, y:64, z:495, dim:minecraft:overworld]
+[08Aug2025 08:04:59.778] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:05:02.994] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[08Aug2025 08:05:02.997] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[08Aug2025 08:06:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by PussyDestroyer
+[08Aug2025 08:06:05.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-697, y:64, z:487, dim:minecraft:overworld]
+[08Aug2025 08:06:05.076] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 08:06:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 froze to death
+[08Aug2025 08:06:50.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-690, y:67, z:496, dim:minecraft:overworld]
+[08Aug2025 08:06:50.725] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 08:09:20.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 08:09:20.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 08:09:45.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[08Aug2025 08:11:49.290] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[08Aug2025 08:11:49.292] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_gold" - querying recipes to get these
+[08Aug2025 08:11:49.293] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[08Aug2025 08:11:49.294] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lapis_lazuli" - querying recipes to get these
+[08Aug2025 08:11:49.295] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_nugget" - querying recipes to get these
+[08Aug2025 08:11:49.296] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[08Aug2025 08:11:49.297] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[08Aug2025 08:14:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by PussyDestroyer
+[08Aug2025 08:14:20.449] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-670, y:63, z:494, dim:minecraft:overworld]
+[08Aug2025 08:14:20.472] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 08:14:22.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 08:14:22.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 08:17:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[08Aug2025 08:17:49.247] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.17.49.dat
+[08Aug2025 08:17:49.249] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-680, y:66, z:525, dim:minecraft:overworld]
+[08Aug2025 08:17:49.269] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:19:22.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 08:19:22.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 08:19:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.cataclysm.storm_bringer
+[08Aug2025 08:19:25.598] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-723, y:64, z:538, dim:minecraft:overworld]
+[08Aug2025 08:19:25.617] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
