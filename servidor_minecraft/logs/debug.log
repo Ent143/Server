@@ -4761,3 +4761,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 04:13:16.542] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-673, y:63, z:495, dim:minecraft:overworld]
 [08Aug2025 04:13:16.565] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [08Aug2025 04:15:34.143] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[08Aug2025 04:17:46.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:17:46.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:22:46.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:22:46.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
