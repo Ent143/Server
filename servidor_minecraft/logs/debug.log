@@ -4744,3 +4744,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 04:05:27.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Ent144
 [08Aug2025 04:05:27.745] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-682, y:91, z:447, dim:minecraft:overworld]
 [08Aug2025 04:05:27.765] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 04:07:46.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:07:46.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:08:50.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Ent144
+[08Aug2025 04:08:50.508] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 04:11:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was doomed to fall by Cristh715 using [MAMADISIMA]
+[08Aug2025 04:11:04.006] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_08.08.2025-04.11.03.dat
+[08Aug2025 04:11:04.007] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ent144 was created at position [x:-671, y:63, z:462, dim:minecraft:overworld]
+[08Aug2025 04:11:04.009] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[08Aug2025 04:12:46.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:12:46.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:12:47.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was burnt to a crisp whilst fighting Ent144
+[08Aug2025 04:12:47.675] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-687, y:66, z:478, dim:minecraft:overworld]
+[08Aug2025 04:12:47.679] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 04:13:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Ent144
+[08Aug2025 04:13:16.542] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-673, y:63, z:495, dim:minecraft:overworld]
+[08Aug2025 04:13:16.565] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 04:15:34.143] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
