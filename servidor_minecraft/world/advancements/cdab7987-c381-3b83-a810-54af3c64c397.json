@@ -2362,6 +2362,7 @@
       "minecraft:spider": "2025-07-13 02:41:29 +0000",
       "minecraft:creeper": "2025-07-16 23:50:58 +0000",
       "minecraft:cave_spider": "2025-07-13 03:00:51 +0000",
+      "minecraft:piglin": "2025-08-08 05:32:45 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:20 +0000",
       "minecraft:enderman": "2025-07-19 07:22:58 +0000",
       "minecraft:zombie": "2025-07-12 23:37:33 +0000",
@@ -2810,6 +2811,7 @@
       "jacaranda_glade": "2025-07-16 22:27:41 +0000",
       "jade_cliffs": "2025-07-19 08:06:17 +0000",
       "old_growth_woodland": "2025-07-13 01:38:20 +0000",
+      "crystalline_chasm": "2025-08-08 05:32:33 +0000",
       "overgrown_greens": "2025-07-25 06:24:12 +0000",
       "mediterranean_forest": "2025-07-25 06:13:25 +0000",
       "coniferous_forest": "2025-07-25 06:21:26 +0000",
@@ -2835,9 +2837,11 @@
       "steppe": "2025-07-25 06:10:15 +0000",
       "autumnal_maple_forest": "2025-07-25 06:21:17 +0000",
       "redstone_caves": "2025-07-25 05:27:43 +0000",
+      "mycotoxic_undergrowth": "2025-08-08 05:29:35 +0000",
       "tropical_river": "2025-07-25 06:09:35 +0000",
       "deciduous_forest": "2025-07-25 06:06:20 +0000",
       "blackstone_basin": "2025-08-08 05:25:13 +0000",
+      "infernal_holt": "2025-08-08 05:29:29 +0000",
       "bamboo_forest": "2025-07-13 01:38:12 +0000",
       "saguaro_desert": "2025-07-25 06:09:23 +0000",
       "cold_river": "2025-07-25 06:17:57 +0000",
@@ -7749,9 +7753,17 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "blackstone_basin": "2025-08-08 05:25:13 +0000"
+      "mycotoxic_undergrowth": "2025-08-08 05:29:35 +0000",
+      "blackstone_basin": "2025-08-08 05:25:13 +0000",
+      "infernal_holt": "2025-08-08 05:29:29 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-08-08 05:31:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -375,3 +375,5 @@
 [08Aug2025 05:24:35.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
 [08Aug2025 05:26:57.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer moved too quickly! 7.976580850719245,3.0,-5.255310433498664
 [08Aug2025 05:28:19.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=62, z=123} BlockPos{x=-76, y=63, z=123}
+[08Aug2025 05:31:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Downer]
+[08Aug2025 05:37:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [A Terrible Fortress]
