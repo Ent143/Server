@@ -4976,3 +4976,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 04:53:28.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 04:56:06.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [08Aug2025 04:56:45.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Aug2025 04:57:47.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08Aug2025 04:58:33.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:58:33.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 05:00:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[08Aug2025 05:00:44.999] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-668, y:64, z:487, dim:minecraft:overworld]
+[08Aug2025 05:00:45.015] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 05:01:24.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Aug2025 05:01:42.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[08Aug2025 05:01:59.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[08Aug2025 05:03:40.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 05:03:40.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 05:03:48.408] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[08Aug2025 05:05:26.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer burned to death
+[08Aug2025 05:05:26.498] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-05.05.26.dat
+[08Aug2025 05:05:26.499] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-706, y:64, z:477, dim:minecraft:overworld]
+[08Aug2025 05:05:26.505] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
