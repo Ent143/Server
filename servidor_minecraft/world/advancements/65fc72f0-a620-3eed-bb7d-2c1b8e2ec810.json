@@ -1742,6 +1742,7 @@
       "minecraft:magma_cube": "2025-08-04 23:47:27 +0000",
       "minecraft:spider": "2025-07-14 08:05:07 +0000",
       "minecraft:creeper": "2025-07-14 07:50:53 +0000",
+      "minecraft:wither": "2025-08-08 07:29:03 +0000",
       "minecraft:slime": "2025-07-25 07:19:45 +0000",
       "minecraft:witch": "2025-07-17 00:18:26 +0000",
       "minecraft:wither_skeleton": "2025-07-22 07:49:33 +0000",
@@ -9791,6 +9792,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-08-08 07:29:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-08-08 07:16:53 +0000"
@@ -9812,6 +9819,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-08-08 07:29:33 +0000"
     },
     "done": true
   },
@@ -9839,6 +9852,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-08 07:20:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-08 05:42:56 +0000"
@@ -9848,6 +9867,18 @@
   "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 07:29:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 07:20:59 +0000"
     },
     "done": true
   },
@@ -9872,6 +9903,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-08 06:33:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-08 07:20:59 +0000"
     },
     "done": true
   },
@@ -9902,6 +9939,12 @@
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-08-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 07:44:20 +0000"
     },
     "done": true
   },
