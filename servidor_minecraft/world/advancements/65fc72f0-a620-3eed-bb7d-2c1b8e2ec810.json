@@ -1735,6 +1735,7 @@
       "minecraft:pillager": "2025-07-13 02:56:53 +0000",
       "minecraft:blaze": "2025-07-22 07:45:51 +0000",
       "minecraft:skeleton": "2025-07-13 00:37:56 +0000",
+      "minecraft:ghast": "2025-08-08 05:47:19 +0000",
       "minecraft:hoglin": "2025-07-25 07:07:34 +0000",
       "minecraft:vindicator": "2025-07-25 06:12:40 +0000",
       "minecraft:magma_cube": "2025-08-04 23:47:27 +0000",
@@ -9759,6 +9760,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 05:42:56 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/nether": {
     "criteria": {
       "has_planks": "2025-08-08 05:36:52 +0000"
@@ -9807,6 +9814,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 05:42:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-08 05:42:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-08 05:36:52 +0000"
@@ -9828,6 +9847,12 @@
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-08-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-08 05:42:56 +0000"
     },
     "done": true
   },

@@ -377,3 +377,20 @@
 [08Aug2025 05:28:19.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=62, z=123} BlockPos{x=-76, y=63, z=123}
 [08Aug2025 05:31:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Downer]
 [08Aug2025 05:37:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [A Terrible Fortress]
+[08Aug2025 05:47:31.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 tried to swim in lava
+[08Aug2025 05:47:31.314] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 05:47:53.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[08Aug2025 05:50:17.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Aug2025 05:50:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 tried to swim in lava
+[08Aug2025 05:50:53.258] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 05:51:11.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[08Aug2025 05:51:30.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[08Aug2025 05:51:49.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[08Aug2025 05:52:07.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[08Aug2025 05:52:24.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[08Aug2025 05:52:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 tried to swim in lava
+[08Aug2025 05:52:57.614] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 05:53:12.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Aug2025 05:55:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 tried to swim in lava
+[08Aug2025 05:55:26.056] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 05:55:43.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind

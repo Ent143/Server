@@ -2359,8 +2359,11 @@
       "minecraft:pillager": "2025-07-13 02:56:44 +0000",
       "minecraft:blaze": "2025-08-04 06:01:16 +0000",
       "minecraft:skeleton": "2025-07-17 00:09:08 +0000",
+      "minecraft:hoglin": "2025-08-08 05:48:31 +0000",
       "minecraft:spider": "2025-07-13 02:41:29 +0000",
       "minecraft:creeper": "2025-07-16 23:50:58 +0000",
+      "minecraft:zombified_piglin": "2025-08-08 05:43:58 +0000",
+      "minecraft:wither_skeleton": "2025-08-08 05:43:42 +0000",
       "minecraft:cave_spider": "2025-07-13 03:00:51 +0000",
       "minecraft:piglin": "2025-08-08 05:32:45 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:20 +0000",
@@ -7759,11 +7762,23 @@
     },
     "done": false
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-08 05:37:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2025-08-08 05:31:43 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-08-08 05:37:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
