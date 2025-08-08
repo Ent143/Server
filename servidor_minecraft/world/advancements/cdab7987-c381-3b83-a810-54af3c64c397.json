@@ -7776,6 +7776,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-08 07:16:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-08-08 06:07:37 +0000"

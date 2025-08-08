@@ -5225,3 +5225,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 07:08:48.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 07:08:48.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 07:10:08.705] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[08Aug2025 07:11:49.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer burned to death
+[08Aug2025 07:11:49.104] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-07.11.49.dat
+[08Aug2025 07:11:49.105] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-726, y:62, z:461, dim:minecraft:overworld]
+[08Aug2025 07:11:49.107] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 07:13:48.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:13:48.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:16:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Withering Heights]
+[08Aug2025 07:16:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Withering Heights]
+[08Aug2025 07:18:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was blown up by Wither
+[08Aug2025 07:18:11.035] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-07.18.11.dat
+[08Aug2025 07:18:11.036] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-730, y:-11, z:574, dim:minecraft:overworld]
+[08Aug2025 07:18:11.044] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 07:18:48.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:18:48.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:19:54.038] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_iron" - querying recipes to get these
