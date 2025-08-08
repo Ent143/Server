@@ -292,3 +292,21 @@
 [08Aug2025 04:12:47.679] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [08Aug2025 04:13:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Ent144
 [08Aug2025 04:13:16.565] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 04:37:45.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.127.61.155:41615] logged in with entity id 523573 at (-404.8347392256554, 55.0, 402.3642816224262)
+[08Aug2025 04:37:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[08Aug2025 04:37:45.129] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[08Aug2025 04:38:11.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Aug2025 04:38:30.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[08Aug2025 04:38:31.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[08Aug2025 04:38:47.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[08Aug2025 04:39:05.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[08Aug2025 04:39:22.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Aug2025 04:39:40.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[08Aug2025 04:39:58.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[08Aug2025 04:40:16.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[08Aug2025 04:40:35.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[08Aug2025 04:40:45.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-608, y=74, z=516} BlockPos{x=-610, y=72, z=517}
+[08Aug2025 04:40:54.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[08Aug2025 04:41:13.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[08Aug2025 04:41:32.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
+[08Aug2025 04:41:49.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
