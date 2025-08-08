@@ -9764,73 +9764,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 08:19:21 +0000"
+      "log_spam_fixer": "2025-08-08 08:24:23 +0000"
     },
     "done": false
   },
@@ -9909,6 +9909,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-08-08 05:36:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-08-08 08:20:12 +0000"
     },
     "done": true
   },

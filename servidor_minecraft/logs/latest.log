@@ -584,3 +584,23 @@
 [08Aug2025 08:17:49.269] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
 [08Aug2025 08:19:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.cataclysm.storm_bringer
 [08Aug2025 08:19:25.617] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[08Aug2025 08:24:07.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Ent144
+[08Aug2025 08:24:07.101] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_08.08.2025-08.24.07.dat
+[08Aug2025 08:24:07.122] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[08Aug2025 08:24:56.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[08Aug2025 08:24:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[08Aug2025 08:25:16.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[08Aug2025 08:25:16.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[08Aug2025 08:25:20.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[08Aug2025 08:25:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[08Aug2025 08:25:30.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Aug2025 08:25:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Aug2025 08:25:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Aug2025 08:25:30.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Aug2025 08:25:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Aug2025 08:25:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Aug2025 08:25:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Aug2025 08:25:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Aug2025 08:25:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Aug2025 08:25:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Aug2025 08:25:30.786] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
