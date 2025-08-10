@@ -4613,3 +4613,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Aug2025 21:27:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=67, z=-761} BlockPos{x=641, y=66, z=-767}
 [10Aug2025 21:27:15.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}
 [10Aug2025 21:27:15.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}
+[10Aug2025 21:28:17.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:28:17.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:29:45.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=35, z=-796} BlockPos{x=614, y=34, z=-798}
+[10Aug2025 21:32:11.951] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lapis_lazuli" - querying recipes to get these
+[10Aug2025 21:32:30.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=633, y=31, z=-801} BlockPos{x=633, y=29, z=-801}
+[10Aug2025 21:32:34.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=32, z=-800} BlockPos{x=631, y=31, z=-799}
+[10Aug2025 21:32:38.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=32, z=-802} BlockPos{x=629, y=31, z=-802}
+[10Aug2025 21:32:38.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=31, z=-803} BlockPos{x=629, y=30, z=-801}
+[10Aug2025 21:32:38.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=31, z=-803} BlockPos{x=629, y=30, z=-801}
+[10Aug2025 21:33:17.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:33:17.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
