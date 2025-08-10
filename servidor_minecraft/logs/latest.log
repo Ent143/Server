@@ -1022,3 +1022,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Aug2025 08:24:32.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=62, z=395} BlockPos{x=-403, y=61, z=396}
 [10Aug2025 08:24:32.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=62, z=395} BlockPos{x=-403, y=61, z=396}
 [10Aug2025 09:03:30.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-394, y=56, z=367} BlockPos{x=-394, y=55, z=366}
+[10Aug2025 09:09:09.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-390, y=58, z=368} BlockPos{x=-389, y=57, z=368}
