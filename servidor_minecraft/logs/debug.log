@@ -6553,3 +6553,50 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Aug2025 07:20:59.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
 [10Aug2025 07:21:20.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
 [10Aug2025 07:21:39.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4197ms or 83 ticks behind
+[10Aug2025 07:21:59.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5754ms or 115 ticks behind
+[10Aug2025 07:22:19.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
+[10Aug2025 07:22:38.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4108ms or 82 ticks behind
+[10Aug2025 07:22:42.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 07:22:42.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 07:22:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage by Cristh715 using [MAMADISIMA]
+[10Aug2025 07:22:54.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-445, y:26, z:410, dim:minecraft:overworld]
+[10Aug2025 07:22:54.159] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[10Aug2025 07:22:58.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4514ms or 90 ticks behind
+[10Aug2025 07:23:16.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[10Aug2025 07:23:24.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Spectral Wolf
+[10Aug2025 07:23:24.692] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_10.08.2025-07.23.24.dat
+[10Aug2025 07:23:24.693] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-689, y:71, z:458, dim:minecraft:overworld]
+[10Aug2025 07:23:24.699] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[10Aug2025 07:23:29.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 froze to death
+[10Aug2025 07:23:29.742] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_10.08.2025-07.23.29.dat
+[10Aug2025 07:23:29.743] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ent144 was created at position [x:-686, y:71, z:458, dim:minecraft:overworld]
+[10Aug2025 07:23:29.777] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[10Aug2025 07:23:35.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4111ms or 82 ticks behind
+[10Aug2025 07:23:54.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[10Aug2025 07:24:11.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[10Aug2025 07:24:38.552] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[10Aug2025 07:24:48.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 07:25:08.918] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[10Aug2025 07:25:09.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5337ms or 106 ticks behind
+[10Aug2025 07:25:29.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[10Aug2025 07:25:50.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5845ms or 116 ticks behind
+[10Aug2025 07:26:10.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
+[10Aug2025 07:26:31.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
+[10Aug2025 07:26:52.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5986ms or 119 ticks behind
+[10Aug2025 07:27:13.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[10Aug2025 07:27:33.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
+[10Aug2025 07:27:54.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5560ms or 111 ticks behind
+[10Aug2025 07:28:14.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
+[10Aug2025 07:28:34.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
+[10Aug2025 07:28:54.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5552ms or 111 ticks behind
+[10Aug2025 07:29:13.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 07:29:13.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 07:29:16.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6743ms or 134 ticks behind
+[10Aug2025 07:29:36.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
+[10Aug2025 07:29:57.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6070ms or 121 ticks behind
+[10Aug2025 07:30:17.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4763ms or 95 ticks behind
+[10Aug2025 07:30:37.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5245ms or 104 ticks behind
+[10Aug2025 07:30:58.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6080ms or 121 ticks behind
+[10Aug2025 07:31:20.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
+[10Aug2025 07:31:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Wingin' It]
+[10Aug2025 07:31:40.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
