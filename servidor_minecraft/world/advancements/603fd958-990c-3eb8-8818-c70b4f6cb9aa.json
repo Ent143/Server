@@ -19517,6 +19517,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 09:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-10 08:08:34 +0000"
@@ -19760,6 +19766,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 09:30:14 +0000"
     },
     "done": true
   },
