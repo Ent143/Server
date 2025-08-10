@@ -268,3 +268,11 @@
 [10Aug2025 21:09:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [10Aug2025 21:09:36.234] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [10Aug2025 21:09:41.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[10Aug2025 21:24:59.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=662, y=64, z=-766} BlockPos{x=663, y=64, z=-766}
+[10Aug2025 21:25:08.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=665, y=63, z=-773} BlockPos{x=665, y=63, z=-772}
+[10Aug2025 21:25:08.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=665, y=63, z=-773} BlockPos{x=665, y=63, z=-772}
+[10Aug2025 21:25:26.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=664, y=68, z=-761} BlockPos{x=665, y=68, z=-761}
+[10Aug2025 21:27:11.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=647, y=67, z=-762} BlockPos{x=647, y=66, z=-761}
+[10Aug2025 21:27:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=67, z=-761} BlockPos{x=641, y=66, z=-767}
+[10Aug2025 21:27:15.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}
+[10Aug2025 21:27:15.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}

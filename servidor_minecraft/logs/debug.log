@@ -4592,3 +4592,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Aug2025 21:13:50.454] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
 [10Aug2025 21:16:16.953] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
 [10Aug2025 21:16:18.956] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lapis_lazuli" - querying recipes to get these
+[10Aug2025 21:18:17.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:18:17.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:23:17.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:23:17.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:23:27.724] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Aug2025 21:23:27.724] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Aug2025 21:23:27.725] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Aug2025 21:23:40.216] [Worker-Main-12/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Aug2025 21:23:40.217] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Aug2025 21:23:40.217] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Aug2025 21:23:40.221] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Aug2025 21:23:40.221] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Aug2025 21:24:59.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=662, y=64, z=-766} BlockPos{x=663, y=64, z=-766}
+[10Aug2025 21:25:08.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=665, y=63, z=-773} BlockPos{x=665, y=63, z=-772}
+[10Aug2025 21:25:08.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=665, y=63, z=-773} BlockPos{x=665, y=63, z=-772}
+[10Aug2025 21:25:26.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=664, y=68, z=-761} BlockPos{x=665, y=68, z=-761}
+[10Aug2025 21:25:38.451] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[10Aug2025 21:27:11.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=647, y=67, z=-762} BlockPos{x=647, y=66, z=-761}
+[10Aug2025 21:27:15.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=67, z=-761} BlockPos{x=641, y=66, z=-767}
+[10Aug2025 21:27:15.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}
+[10Aug2025 21:27:15.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=641, y=67, z=-761} BlockPos{x=641, y=66, z=-760}
