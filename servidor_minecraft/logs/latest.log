@@ -1019,3 +1019,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Aug2025 08:21:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
 [10Aug2025 08:21:48.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
 [10Aug2025 08:21:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[10Aug2025 08:24:32.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=62, z=395} BlockPos{x=-403, y=61, z=396}
+[10Aug2025 08:24:32.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=62, z=395} BlockPos{x=-403, y=61, z=396}
