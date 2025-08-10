@@ -293,3 +293,24 @@
 [10Aug2025 05:27:34.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer froze to death
 [10Aug2025 05:27:34.221] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_10.08.2025-05.27.34.dat
 [10Aug2025 05:27:34.249] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[10Aug2025 05:28:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer froze to death
+[10Aug2025 05:28:46.704] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_10.08.2025-05.28.46.dat
+[10Aug2025 05:28:46.732] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[10Aug2025 05:28:50.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Aug2025 05:29:04.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[10Aug2025 05:29:04.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[10Aug2025 05:29:39.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40c6b559[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.93.97.46:40283): Took too long to log in
+[10Aug2025 05:29:39.411] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40c6b559[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.93.97.46:40283) lost connection: Took too long to log in
+[10Aug2025 05:29:39.453] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 05:30:13.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40ab5a6f[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.93.97.46:60461) lost connection: Disconnected
+[10Aug2025 05:30:32.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.93.97.46:50151] logged in with entity id 187506 at (-734.0274874100165, 64.0, 485.69999998807907)
+[10Aug2025 05:30:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[10Aug2025 05:30:32.297] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[10Aug2025 05:32:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[10Aug2025 05:32:06.624] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[10Aug2025 05:32:36.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[10Aug2025 05:32:36.455] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[10Aug2025 05:33:36.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[10Aug2025 05:33:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by PussyDestroyer
+[10Aug2025 05:33:59.932] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[10Aug2025 05:38:52.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
