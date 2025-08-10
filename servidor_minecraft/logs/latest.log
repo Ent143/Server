@@ -1025,3 +1025,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Aug2025 09:09:09.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-390, y=58, z=368} BlockPos{x=-389, y=57, z=368}
 [10Aug2025 09:30:14.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Bound Forever]
 [10Aug2025 09:30:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Soul Magic]
+[10Aug2025 10:32:29.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=603, y=62, z=-772} BlockPos{x=602, y=60, z=-770}
+[10Aug2025 10:32:29.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=603, y=62, z=-772} BlockPos{x=602, y=60, z=-770}
+[10Aug2025 10:32:41.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=62, z=-769} BlockPos{x=591, y=61, z=-769}
+[10Aug2025 10:33:27.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[10Aug2025 10:33:27.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[10Aug2025 10:33:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Aug2025 10:33:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Aug2025 10:33:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Aug2025 10:33:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Aug2025 10:33:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Aug2025 10:33:47.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Aug2025 10:33:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Aug2025 10:33:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Aug2025 10:33:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Aug2025 10:33:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Aug2025 10:33:48.409] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
