@@ -4693,3 +4693,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Aug2025 21:48:15.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6125, y=68, z=-8535} BlockPos{x=-6125, y=67, z=-8537}
 [10Aug2025 21:48:15.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6125, y=68, z=-8535} BlockPos{x=-6125, y=67, z=-8537}
 [10Aug2025 21:48:15.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6125, y=68, z=-8535} BlockPos{x=-6125, y=67, z=-8537}
+[10Aug2025 21:48:19.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:48:19.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:49:13.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6134, y=66, z=-8540} BlockPos{x=-6133, y=66, z=-8540}
+[10Aug2025 21:49:13.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6135, y=66, z=-8539} BlockPos{x=-6133, y=66, z=-8540}
+[10Aug2025 21:49:13.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6135, y=66, z=-8539} BlockPos{x=-6133, y=66, z=-8540}
+[10Aug2025 21:49:14.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6135, y=66, z=-8539} BlockPos{x=-6133, y=66, z=-8540}
+[10Aug2025 21:49:14.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6135, y=66, z=-8539} BlockPos{x=-6133, y=66, z=-8540}
+[10Aug2025 21:49:20.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6141, y=66, z=-8542} BlockPos{x=-6139, y=66, z=-8540}
+[10Aug2025 21:51:23.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[10Aug2025 21:52:20.800] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[10Aug2025 21:53:21.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:53:21.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:58:21.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:58:21.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:03:21.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:03:21.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:08:21.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:08:21.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:13:21.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:13:21.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:16:31.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=302, z=437} BlockPos{x=-446, y=303, z=437}
+[10Aug2025 22:16:34.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=297, z=437} BlockPos{x=-445, y=297, z=437}
+[10Aug2025 22:17:01.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=263, z=437} BlockPos{x=-445, y=264, z=437}
+[10Aug2025 22:18:02.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=198, z=437} BlockPos{x=-447, y=197, z=437}
+[10Aug2025 22:18:02.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=198, z=437} BlockPos{x=-447, y=197, z=437}
+[10Aug2025 22:18:02.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=199, z=437} BlockPos{x=-447, y=197, z=437}
+[10Aug2025 22:18:02.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=198, z=437} BlockPos{x=-447, y=197, z=437}
+[10Aug2025 22:18:11.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=183, z=437} BlockPos{x=-446, y=184, z=437}
+[10Aug2025 22:18:15.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=180, z=437} BlockPos{x=-448, y=181, z=437}
+[10Aug2025 22:18:21.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:18:21.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
