@@ -19103,78 +19103,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 10:32:36 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19199,21 +19127,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19229,39 +19145,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
-    "criteria": {
-      "forge:dyes/white": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19277,12 +19163,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_wall_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19292,12 +19172,6 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_polished_deepslate_wall": {
-    "criteria": {
-      "has_block": "2025-08-10 10:27:36 +0000"
     },
     "done": true
   },
@@ -19325,18 +19199,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19355,12 +19217,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab": {
-    "criteria": {
-      "has_block": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19370,12 +19226,6 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
     },
     "done": true
   },
@@ -19391,21 +19241,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_blossom": {
-    "criteria": {
-      "has_logs": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
     },
     "done": true
   },
@@ -19445,21 +19283,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19481,33 +19307,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks": {
-    "criteria": {
-      "has_block": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19517,33 +19319,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
     },
     "done": true
   },
@@ -19571,27 +19349,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_glass": {
-    "criteria": {
-      "has_item": "2025-08-10 08:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_sandstone": {
-    "criteria": {
-      "has_block": "2025-08-10 08:07:33 +0000"
     },
     "done": true
   },
@@ -19604,12 +19364,6 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19637,24 +19391,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/soul_magic": {
-    "criteria": {
-      "coded_trigger": "2025-08-10 09:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-08-10 07:57:13 +0000"
@@ -19667,21 +19403,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
     },
     "done": true
   },
@@ -19697,18 +19421,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles": {
-    "criteria": {
-      "has_block": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19721,27 +19433,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
     },
     "done": true
   },
@@ -19757,45 +19451,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman_smithing": {
-    "criteria": {
-      "has_enderman": "2025-08-10 10:13:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-08-10 08:08:34 +0000"
     },
     "done": true
   },
@@ -19811,24 +19469,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
-    "criteria": {
-      "forge:dyes/pink": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
@@ -19838,12 +19478,6 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19871,12 +19505,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-08-10 07:57:13 +0000"
@@ -19889,27 +19517,99 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-10 07:57:13 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
-      "has_needed_dye": "2025-08-10 08:08:38 +0000"
+      "has_glass": "2025-08-10 07:57:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-10 07:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-10 07:57:26 +0000"
     },
     "done": true
   },
@@ -19925,27 +19625,255 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
+  "securitycraft:recipes/building_blocks/reinforced_glass": {
     "criteria": {
-      "has_glass": "2025-08-10 07:57:13 +0000"
+      "has_item": "2025-08-10 08:07:33 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs": {
+  "securitycraft:recipes/building_blocks/reinforced_sandstone": {
     "criteria": {
-      "has_block": "2025-08-10 10:27:36 +0000"
+      "has_block": "2025-08-10 08:07:33 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
-      "has_glass": "2025-08-10 07:57:13 +0000"
+      "forge:dyes/white": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_blossom": {
+    "criteria": {
+      "has_logs": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "forge:dyes/pink": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-08-10 08:08:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 09:30:14 +0000"
     },
     "done": true
   },
   "tombstone:adventure/revive_familiar": {
     "criteria": {
       "coded_trigger": "2025-08-10 09:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2025-08-10 10:13:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_polished_deepslate_wall": {
+    "criteria": {
+      "has_block": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab": {
+    "criteria": {
+      "has_block": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks": {
+    "criteria": {
+      "has_block": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles": {
+    "criteria": {
+      "has_block": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-08-10 10:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2025-08-10 10:27:36 +0000"
     },
     "done": true
   },
