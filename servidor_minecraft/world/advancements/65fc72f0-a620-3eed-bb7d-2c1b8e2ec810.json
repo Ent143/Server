@@ -9960,5 +9960,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-10 06:02:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

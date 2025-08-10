@@ -5845,3 +5845,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Aug2025 05:58:34.946] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
 [10Aug2025 05:58:47.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [10Aug2025 05:59:07.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Aug2025 05:59:58.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 06:00:22.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Ent144
+[10Aug2025 06:00:22.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_10.08.2025-06.00.22.dat
+[10Aug2025 06:00:22.283] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-707, y:64, z:499, dim:minecraft:overworld]
+[10Aug2025 06:00:22.306] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[10Aug2025 06:00:32.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Aug2025 06:00:50.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[10Aug2025 06:01:20.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[10Aug2025 06:01:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[10Aug2025 06:01:31.179] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PussyDestroyer with unique ID travelersbackpack.diamond_10.08.2025-06.01.31.dat
+[10Aug2025 06:01:31.180] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-104, y:32, z:73, dim:minecraft:the_nether]
+[10Aug2025 06:01:31.203] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[10Aug2025 06:01:37.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[10Aug2025 06:01:50.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 06:01:50.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 06:01:56.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[10Aug2025 06:02:13.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[10Aug2025 06:05:43.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 06:06:01.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[10Aug2025 06:06:27.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Aug2025 06:06:55.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Aug2025 06:06:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 froze to death
+[10Aug2025 06:06:56.774] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ent144 with unique ID travelersbackpack.magma_cube_10.08.2025-06.06.56.dat
+[10Aug2025 06:06:56.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ent144 was created at position [x:-421, y:55, z:394, dim:minecraft:overworld]
+[10Aug2025 06:06:56.810] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[10Aug2025 06:07:04.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 06:07:04.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 06:07:13.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[10Aug2025 06:07:32.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[10Aug2025 06:07:50.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[10Aug2025 06:08:10.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
+[10Aug2025 06:08:29.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[10Aug2025 06:08:48.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4504ms or 90 ticks behind
+[10Aug2025 06:09:08.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4985ms or 99 ticks behind
+[10Aug2025 06:09:28.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5000ms or 100 ticks behind
+[10Aug2025 06:09:48.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4562ms or 91 ticks behind
